@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.log
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+
+# Spark / PySpark
+spark-warehouse/
+*.parquet
+*.csv
+*.json
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+
+# Kubernetes
+*.yaml
+*.yml
+*.kubeconfig
+
+# Mac / OS
+.DS_Store
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+env/
