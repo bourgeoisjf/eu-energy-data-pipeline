@@ -8,6 +8,8 @@ Purpose:
 This script is intentionally simple.
 No transformations, no Spark, no Docker.
 Pure ingestion.
+
+
 """
 
 import os
@@ -33,6 +35,7 @@ OUTPUT_DIR = "data/raw"
 # =========================
 # Helper functions
 # =========================
+
 
 def build_request_params():
     """Build query parameters for the API request."""
@@ -70,6 +73,7 @@ def save_raw_data(data):
 # =========================
 # Main execution
 # =========================
+
 
 def main():
     if not ENTSOE_API_KEY:
