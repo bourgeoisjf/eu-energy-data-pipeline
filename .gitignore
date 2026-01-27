@@ -1,40 +1,35 @@
+# =========================
 # Python
+# =========================
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
-*.env
-*.log
-*.sqlite3
-
-# Jupyter
-.ipynb_checkpoints/
-
-# PyCharm / VSCode
-.idea/
-.vscode/
-
-# Spark / PySpark
-spark-warehouse/
-*.parquet
-*.csv
-*.json
-
-# Docker
-*.dockerignore
-docker-compose.override.yml
-
-# Kubernetes
-*.yaml
-*.yml
-*.kubeconfig
-
-# Mac / OS
-.DS_Store
-
-# Logs
-*.log
-
-# Virtual environments
+.venv/
 venv/
-env/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Data files
+# =========================
+data/raw/
+data/interim/
+
+# Permitir apenas amostras pequenas versionadas
+!data/raw/*.sample.csv
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
