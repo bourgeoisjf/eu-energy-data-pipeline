@@ -1,87 +1,79 @@
-"""
-Script: fetch_entsoe_data.py
-Author: Jean-François Bourgeois
-Purpose:
-    Fetch raw electricity generation data from ENTSO-E API
-    and store it locally as raw data.
-
-This script is intentionally simple.
-No transformations, no Spark, no Docker.
-Pure ingestion.
-
-
-"""
-
 import os
 import requests
 from datetime import datetime
+from dotenv import load_dotenv
 
+# ======================================================
+# Load environment variables
+# ======================================================
+load_dotenv()
 
-# =========================
-# Configuration
-# =========================
+API_KEY = os.getenv("ENTSOE_API_KEY")
 
-ENTSOE_API_KEY = os.getenv("ENTSOE_API_KEY")  # API key via environment variable
+if not API_KEY:
+    raise ValueError("ENTSOE_API_KEY not found. Check your .env file.")
+
+# ======================================================
+# Constants
+# ======================================================
 BASE_URL = "https://web-api.tp.entsoe.eu/api"
-
-COUNTRY_CODE = "FR"  # France
-DOCUMENT_TYPE = "A75"  # Actual generation per type
-PERIOD_START = "202401010000"
-PERIOD_END = "202401020000"
-
 OUTPUT_DIR = "data/raw"
 
+DOCUMENT_TYPE = "A75"  # Actual generation per unit
+PROCESS_TYPE = "A16"  # Realised
+IN_DOMAIN = "10YFR-RTE------C"  # France bidding zone
 
-# =========================
+# Example period (UTC)
+PERIOD_START = "202601270000"
+PERIOD_END = "202601280000"
+
+
+# ======================================================
 # Helper functions
-# =========================
-
-
+# ======================================================
 def build_request_params():
-    """Build query parameters for the API request."""
     return {
-        "securityToken": ENTSOE_API_KEY,
+        "securityToken": API_KEY,
         "documentType": DOCUMENT_TYPE,
-        "processType": "A16",
-        "in_Domain": "10YFR-RTE------C",
+        "processType": PROCESS_TYPE,
+        "in_Domain": IN_DOMAIN,
         "periodStart": PERIOD_START,
         "periodEnd": PERIOD_END,
     }
 
 
-def fetch_data(params):
-    """Fetch data from ENTSO-E API."""
-    response = requests.get(BASE_URL, params=params)
-    response.raise_for_status()
+def fetch_generation_data():
+    response = requests.get(BASE_URL, params=build_request_params())
+
+    if response.status_code != 200:
+        raise RuntimeError(
+            f"API request failed: {response.status_code} - {response.text}"
+        )
+
     return response.text
 
 
-def save_raw_data(data):
-    """Save raw XML data to disk."""
+def save_raw_response(content: str):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-    filename = f"entsoe_generation_fr_{timestamp}.xml"
+    filename = f"entsoe_generation_fr_raw_{timestamp}.xml"
     filepath = os.path.join(OUTPUT_DIR, filename)
 
-    with open(filepath, "w", encoding="utf-8") as file:
-        file.write(data)
+    with open(filepath, "w", encoding="utf-8") as f:
+        f.write(content)
 
-    print(f"Raw data saved to {filepath}")
-
-
-# =========================
-# Main execution
-# =========================
+    print(f"✅ Raw data saved to: {filepath}")
 
 
+# ======================================================
+# Main
+# ======================================================
 def main():
-    if not ENTSOE_API_KEY:
-        raise ValueError("ENTSOE_API_KEY environment variable is not set")
-
-    params = build_request_params()
-    raw_data = fetch_data(params)
-    save_raw_data(raw_data)
+    print("🔌 Fetching generation data from ENTSO-E API...")
+    data = fetch_generation_data()
+    save_raw_response(data)
+    print("🎉 Done!")
 
 
 if __name__ == "__main__":
