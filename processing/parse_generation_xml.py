@@ -2,79 +2,69 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 from pathlib import Path
 
+# Paths
+RAW_DATA_DIR = Path("data/raw")
+PROCESSED_DATA_DIR = Path("data/processed")
+PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-RAW_DIR = Path("data/raw")
-PROCESSED_DIR = Path("data/processed")
+# ENTSO-E namespace
+NS = {
+    "ns": "urn:iec62325.351:tc57wg16:451-6:generationloaddocument:3:0"
+}
 
 
 def parse_generation_xml(xml_path: Path) -> pd.DataFrame:
     """
-    Parse ENTSO-E generation XML into a structured DataFrame.
+    Parse ENTSO-E generation XML file and return a DataFrame
     """
-
     tree = ET.parse(xml_path)
     root = tree.getroot()
 
-    ns = {
-        "ns": "urn:iec62325.351:tc57wg16:451-1:publicationdocument:7:0"
-    }
-
     records = []
 
-    for timeseries in root.findall("ns:TimeSeries", ns):
-        area = timeseries.find(
-            "ns:outBiddingZone_Domain.mRID", ns
-        )
-        area_code = area.text if area is not None else None
+    # Iterate over TimeSeries
+    for ts in root.findall("ns:TimeSeries", NS):
+        psr_type = ts.findtext("ns:MktPSRType/ns:psrType", namespaces=NS)
 
-        prod_type = timeseries.find(
-            "ns:MktPSRType/ns:psrType", ns
-        )
-        production_type = prod_type.text if prod_type is not None else None
+        for period in ts.findall("ns:Period", NS):
+            start_time = period.findtext(
+                "ns:timeInterval/ns:start", namespaces=NS
+            )
 
-        period = timeseries.find("ns:Period", ns)
-        if period is None:
-            continue
+            for point in period.findall("ns:Point", NS):
+                position = point.findtext("ns:position", namespaces=NS)
+                quantity = point.findtext("ns:quantity", namespaces=NS)
 
-        time_interval = period.find("ns:timeInterval", ns)
-        start_time = time_interval.find("ns:start", ns).text
-        end_time = time_interval.find("ns:end", ns).text
-
-        for point in period.findall("ns:Point", ns):
-            quantity = point.find("ns:quantity", ns)
-
-            if quantity is None:
-                continue
-
-            records.append({
-                "start_time": start_time,
-                "end_time": end_time,
-                "area_code": area_code,
-                "production_type": production_type,
-                "quantity_mw": float(quantity.text),
-                "unit": "MW"
-            })
+                records.append({
+                    "psr_type": psr_type,
+                    "start_time": start_time,
+                    "position": int(position),
+                    "quantity_mw": float(quantity)
+                })
 
     return pd.DataFrame(records)
 
 
 def main():
-    xml_files = list(RAW_DIR.glob("*.xml"))
+    xml_files = list(RAW_DATA_DIR.glob("*.xml"))
 
     if not xml_files:
         raise FileNotFoundError("No XML files found in data/raw/")
 
-    PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+    all_data = []
 
     for xml_file in xml_files:
-        print(f"📄 Parsing {xml_file.name}...")
-
+        print(f"📄 Parsing {xml_file.name}")
         df = parse_generation_xml(xml_file)
+        all_data.append(df)
 
-        output_file = PROCESSED_DIR / xml_file.with_suffix(".csv").name
-        df.to_csv(output_file, index=False)
+    final_df = pd.concat(all_data, ignore_index=True)
 
-        print(f"✅ Saved {output_file}")
+    output_path = PROCESSED_DATA_DIR / "entsoe_generation_fr_processed.csv"
+    final_df.to_csv(output_path, index=False)
+
+    print(f"✅ CSV created with {len(final_df)} rows:")
+    print(f"➡️ {output_path}")
 
 
 if __name__ == "__main__":
