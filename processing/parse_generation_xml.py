@@ -1,71 +1,187 @@
+"""
+parse_generation_xml.py
+
+This script parses raw ENTSO-E generation XML files and converts them
+into a structured CSV file for further analysis.
+
+Expected input:
+- XML files in data/raw/
+
+Output:
+- CSV file in data/processed/
+"""
+
+import os
+import csv
 import xml.etree.ElementTree as ET
-import pandas as pd
-from pathlib import Path
+from datetime import datetime, timedelta, timezone
 
-# Paths
-RAW_DATA_DIR = Path("data/raw")
-PROCESSED_DATA_DIR = Path("data/processed")
-PROCESSED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-# ENTSO-E namespace
-NS = {
-    "ns": "urn:iec62325.351:tc57wg16:451-6:generationloaddocument:3:0"
+# ============================================================
+# 1. CONSTANTS & MAPPINGS
+# ============================================================
+
+RAW_DATA_DIR = "data/raw"
+PROCESSED_DATA_DIR = "data/processed"
+
+# PSR (Power System Resource) type mapping
+PSR_TYPE_MAPPING = {
+    "B01": "Biomass",
+    "B02": "Fossil Brown coal/Lignite",
+    "B03": "Fossil Coal-derived gas",
+    "B04": "Fossil Gas",
+    "B05": "Fossil Hard coal",
+    "B06": "Fossil Oil",
+    "B07": "Fossil Oil shale",
+    "B08": "Fossil Peat",
+    "B09": "Geothermal",
+    "B10": "Hydro Pumped Storage",
+    "B11": "Hydro Run-of-river and poundage",
+    "B12": "Hydro Water Reservoir",
+    "B13": "Marine",
+    "B14": "Nuclear",
+    "B15": "Other renewable",
+    "B16": "Solar",
+    "B17": "Waste",
+    "B18": "Wind Offshore",
+    "B19": "Wind Onshore",
+    "B20": "Other",
+}
+
+# Mapping bidding zones to countries (simplified, expandable)
+BIDDING_ZONE_TO_COUNTRY = {
+    "10YFR-RTE------C": "France",
+    "10YDE-VE-------2": "Germany",
+    "10YES-REE------0": "Spain",
+    "10YIT-GRTN-----B": "Italy",
 }
 
 
-def parse_generation_xml(xml_path: Path) -> pd.DataFrame:
+# ============================================================
+# 2. HELPER FUNCTIONS
+# ============================================================
+
+
+def ensure_directory_exists(path: str) -> None:
+    """Create directory if it does not exist."""
+    if not os.path.exists(path):
+        os.makedirs(path)
+
+
+def parse_iso_datetime(value: str) -> datetime:
+    """Parse ISO datetime string to timezone-aware datetime."""
+    return datetime.fromisoformat(value.replace("Z", "+00:00"))
+
+
+# ============================================================
+# 3. CORE XML PARSING LOGIC
+# ============================================================
+
+
+def parse_generation_xml(xml_file_path: str) -> list[dict]:
     """
-    Parse ENTSO-E generation XML file and return a DataFrame
+    Parse a single ENTSO-E generation XML file.
+
+    Returns:
+        List of dictionaries (rows)
     """
-    tree = ET.parse(xml_path)
+
+    tree = ET.parse(xml_file_path)
     root = tree.getroot()
 
-    records = []
+    # Extract XML namespace
+    namespace = root.tag.split("}")[0].strip("{")
+    ns = {"ns": namespace}
 
-    # Iterate over TimeSeries
-    for ts in root.findall("ns:TimeSeries", NS):
-        psr_type = ts.findtext("ns:MktPSRType/ns:psrType", namespaces=NS)
+    rows = []
 
-        for period in ts.findall("ns:Period", NS):
-            start_time = period.findtext(
-                "ns:timeInterval/ns:start", namespaces=NS
+    # Iterate over all TimeSeries elements
+    for timeseries in root.findall("ns:TimeSeries", ns):
+        psr_type = timeseries.find(".//ns:MktPSRType/ns:psrType", ns)
+        psr_code = psr_type.text if psr_type is not None else None
+        generation_type = PSR_TYPE_MAPPING.get(psr_code, "Unknown")
+
+        bidding_zone_el = timeseries.find("ns:inBiddingZone_Domain.mRID", ns)
+        bidding_zone = bidding_zone_el.text if bidding_zone_el is not None else None
+        country = BIDDING_ZONE_TO_COUNTRY.get(bidding_zone, None)
+
+        period = timeseries.find("ns:Period", ns)
+        start_time_el = period.find("ns:timeInterval/ns:start", ns)
+        start_time = parse_iso_datetime(start_time_el.text)
+
+        resolution_el = period.find("ns:resolution", ns)
+        resolution = resolution_el.text if resolution_el is not None else "PT60M"
+
+        # ENTSO-E generation is usually PT15M or PT60M
+        step_minutes = 15 if resolution == "PT15M" else 60
+
+        for point in period.findall("ns:Point", ns):
+            position = int(point.find("ns:position", ns).text)
+            quantity = float(point.find("ns:quantity", ns).text)
+
+            timestamp = start_time + timedelta(minutes=(position - 1) * step_minutes)
+
+            rows.append(
+                {
+                    "psr_type": psr_code,
+                    "generation_type": generation_type,
+                    "bidding_zone": bidding_zone,
+                    "country": country,
+                    "start_time": timestamp.isoformat(),
+                    "position": position,
+                    "quantity_mw": quantity,
+                }
             )
 
-            for point in period.findall("ns:Point", NS):
-                position = point.findtext("ns:position", namespaces=NS)
-                quantity = point.findtext("ns:quantity", namespaces=NS)
-
-                records.append({
-                    "psr_type": psr_type,
-                    "start_time": start_time,
-                    "position": int(position),
-                    "quantity_mw": float(quantity)
-                })
-
-    return pd.DataFrame(records)
+    return rows
 
 
-def main():
-    xml_files = list(RAW_DATA_DIR.glob("*.xml"))
+# ============================================================
+# 4. MAIN PIPELINE
+# ============================================================
+
+
+def main() -> None:
+    print("🔄 Parsing ENTSO-E generation XML files...")
+
+    ensure_directory_exists(PROCESSED_DATA_DIR)
+
+    xml_files = [f for f in os.listdir(RAW_DATA_DIR) if f.endswith(".xml")]
 
     if not xml_files:
         raise FileNotFoundError("No XML files found in data/raw/")
 
-    all_data = []
+    all_rows = []
 
     for xml_file in xml_files:
-        print(f"📄 Parsing {xml_file.name}")
-        df = parse_generation_xml(xml_file)
-        all_data.append(df)
+        xml_path = os.path.join(RAW_DATA_DIR, xml_file)
+        print(f"📄 Processing {xml_file}")
+        rows = parse_generation_xml(xml_path)
+        all_rows.extend(rows)
 
-    final_df = pd.concat(all_data, ignore_index=True)
+    output_file = os.path.join(PROCESSED_DATA_DIR, "entsoe_generation_parsed.csv")
 
-    output_path = PROCESSED_DATA_DIR / "entsoe_generation_fr_processed.csv"
-    final_df.to_csv(output_path, index=False)
+    with open(output_file, "w", newline="", encoding="utf-8") as csvfile:
+        fieldnames = [
+            "psr_type",
+            "generation_type",
+            "bidding_zone",
+            "country",
+            "start_time",
+            "position",
+            "quantity_mw",
+        ]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(all_rows)
 
-    print(f"✅ CSV created with {len(final_df)} rows:")
-    print(f"➡️ {output_path}")
+    print(f"✅ Parsed data saved to {output_file}")
+    print(f"📊 Total rows: {len(all_rows)}")
 
+
+# ============================================================
+# 5. ENTRY POINT
+# ============================================================
 
 if __name__ == "__main__":
     main()
