@@ -1,1109 +1,1109 @@
-psr_type,generation_type,bidding_zone,country_x,start_time,position,quantity_mw,country_y
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,424.29,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,424.32,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,423.67,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,425.37,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,424.64,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,423.94,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,424.57,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,424.41,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,423.66,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,423.47,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,422.69,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,421.7,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,421.13,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,421.4,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,420.32,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,419.74,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,420.55,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,419.34,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,417.57,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,417.41,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,419.22,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,418.96,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,417.65,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,419.57,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,421.83,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,421.23,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,419.73,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,421.0,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,422.36,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,422.2,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,420.93,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,420.97,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,420.49,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,419.68,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,418.52,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,419.29,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,415.63,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,413.4,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,413.98,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,420.65,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,414.14,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,408.08,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,408.96,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,409.1,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,410.06,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,410.19,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,411.16,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,391.63,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,390.36,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,386.53,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,382.68,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,381.47,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,386.67,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,391.33,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,391.78,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,393.26,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,389.65,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,389.36,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,396.2,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,402.26,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,411.33,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,413.98,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,419.29,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,422.65,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,422.53,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,421.41,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,421.31,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,420.96,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,421.45,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,417.36,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,415.61,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,413.34,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,414.78,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,413.46,
-B01,Biomass,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,416.15,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,2169.5,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,2105.05,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,2104.82,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,2046.76,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,2007.18,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,2000.13,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,2007.83,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,2025.36,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,2010.57,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,2001.21,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,1986.71,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,1993.75,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,1973.36,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,1970.76,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,1986.91,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,1986.31,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,1992.21,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,2025.6,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,2025.46,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,1998.77,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,2204.26,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,2248.37,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,2149.52,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,2289.61,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,2313.77,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,2441.96,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,2522.62,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,2556.73,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,2709.55,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,2817.23,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,2855.93,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,2830.93,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,2857.84,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,2881.11,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,2861.67,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,2811.1,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,2814.74,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,2788.89,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,2759.85,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,2819.57,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,3023.52,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,3341.58,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,3395.86,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,3616.65,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,3746.66,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,3728.36,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,3849.61,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,3915.03,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,3845.36,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,3905.53,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,3953.24,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,3923.85,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,3822.86,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,3736.31,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,3735.69,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,3751.44,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,3788.7,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,3926.34,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,3939.03,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,4175.46,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,4462.13,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,4710.1,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,4846.49,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,4957.38,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,5348.03,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,5709.07,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,6078.4,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,6187.52,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,6215.79,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,6224.07,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,6218.16,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,6191.11,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,6203.54,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,6239.39,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,6230.55,
-B04,Fossil Gas,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,6074.22,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,253.07,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,256.72,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,257.31,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,257.27,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,257.03,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,257.16,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,257.12,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,256.98,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,256.76,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,257.05,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,256.98,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,256.76,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,257.17,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,256.89,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,256.78,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,256.76,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,256.87,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,256.8,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,256.92,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,256.52,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,256.66,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,256.98,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,257.45,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,257.71,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,257.72,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,260.03,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,305.48,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,378.0,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,414.6,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,414.68,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,414.53,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,415.0,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,414.64,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,414.87,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,414.78,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,414.68,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,414.81,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,414.39,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,414.5,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,414.88,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,414.95,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,414.96,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,414.58,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,414.53,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,414.63,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,414.67,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,414.98,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,414.37,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,414.53,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,414.73,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,473.56,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,541.95,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,544.31,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,543.83,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,543.88,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,543.96,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,544.37,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,543.65,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,543.73,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,543.8,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,543.77,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,542.26,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,475.38,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,444.99,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,426.52,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,485.2,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,540.07,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,543.83,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,544.07,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,543.88,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,543.96,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,544.1,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,543.8,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,543.73,
-B05,Fossil Hard coal,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,543.79,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,68.24,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,67.0,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,66.99,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,67.02,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,67.08,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,67.29,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,67.26,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,67.33,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,67.52,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,67.81,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,68.11,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,68.16,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,68.13,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,67.8,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,68.0,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,67.97,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,67.37,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,67.0,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,69.56,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,70.29,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,70.54,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,70.44,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,70.69,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,70.56,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,76.13,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,175.36,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,197.09,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,197.68,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,195.96,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,195.27,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,195.58,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,196.28,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,196.21,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,196.36,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,197.08,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,195.64,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,195.81,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,195.66,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,193.84,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,217.4,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,239.49,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,238.92,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,238.74,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,239.0,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,238.56,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,238.83,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,237.51,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,237.8,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,238.86,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,239.34,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,239.26,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,238.48,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,238.44,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,238.43,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,237.69,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,238.31,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,238.46,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,237.94,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,154.92,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,71.33,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,70.58,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,70.78,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,70.62,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,70.03,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,69.88,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,70.63,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,70.22,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,70.76,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,70.24,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,70.41,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,70.4,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,70.31,
-B06,Fossil Oil,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,69.93,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,289.94,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,336.11,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,247.93,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,110.02,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,102.79,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,103.02,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,102.82,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,102.76,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,146.9,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,187.38,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,199.73,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,196.9,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,108.4,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,102.87,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,102.75,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,102.88,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,103.1,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,102.76,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,102.97,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,102.92,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,227.57,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,251.25,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,235.8,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,164.54,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,318.52,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,428.96,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,689.16,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,715.02,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,1106.11,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,1077.06,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,1075.46,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,1048.11,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,1214.83,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,1256.34,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,1259.43,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,1080.93,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,1097.87,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,1230.08,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,1224.41,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,1240.76,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,1548.41,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,1339.51,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,1306.24,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,1302.34,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,1434.12,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,1284.62,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,1482.5,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,1363.81,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,852.18,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,603.11,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,434.33,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,443.73,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,424.24,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,431.83,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,517.58,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,520.76,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,653.11,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,690.86,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,628.31,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,645.06,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,554.54,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,454.34,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,412.34,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,394.91,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,798.45,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,1235.25,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,1459.54,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,1856.55,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,2036.03,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,2405.81,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,3229.0,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,3625.06,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,3835.65,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,3713.27,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,3681.05,
-B10,Hydro Pumped Storage,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,3329.37,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,4507.07,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,4461.43,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,4457.07,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,4392.49,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,4332.48,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,4316.84,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,4296.19,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,4287.73,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,4282.16,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,4278.65,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,4204.31,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,4208.44,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,4204.93,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,4278.93,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,4291.01,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,4295.92,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,4334.2,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,4342.49,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,4420.36,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,4443.96,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,4545.29,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,4508.81,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,4518.61,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,4589.7,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,4708.56,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,4788.68,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,4865.95,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,5060.66,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,5308.33,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,5330.44,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,5328.65,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,5403.8,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,5432.67,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,5467.54,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,5465.03,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,5476.68,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,5516.38,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,5518.26,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,5396.41,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,5320.03,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,5049.82,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,4993.4,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,4979.48,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,5017.87,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,5028.44,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,5059.88,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,5093.18,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,5046.75,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,4878.32,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,4845.53,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,4827.65,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,4802.07,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,4841.15,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,4833.88,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,4798.15,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,4861.63,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,5033.68,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,5050.29,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,5120.09,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,5143.97,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,5127.63,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,5145.25,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,5137.76,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,5249.36,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,5433.12,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,5538.14,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,5620.07,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,5815.17,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,6110.54,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,6219.11,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,6360.41,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,6322.38,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,6318.74,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,6343.99,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,6264.13,
-B11,Hydro Run-of-river and poundage,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,6163.48,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,1286.73,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,1297.98,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,1293.54,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,1173.36,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,978.96,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,757.95,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,779.89,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,771.5,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,780.73,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,775.51,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,722.23,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,704.83,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,732.94,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,732.99,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,722.95,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,724.13,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,782.64,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,771.13,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,768.73,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,826.59,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,1008.91,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,1006.91,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,1119.15,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,1234.96,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,1377.54,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,1529.63,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,1572.7,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,1862.34,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,2032.2,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,2069.21,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,2164.49,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,2173.71,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,2093.76,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,2070.15,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,2065.34,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,2056.94,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,2137.55,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,2373.17,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,2369.46,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,2429.22,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,2407.83,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,2254.75,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,2358.33,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,2648.44,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,2757.52,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,2653.19,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,2895.57,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,2909.84,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,2809.9,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,2776.86,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,2950.11,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,2792.15,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,2823.62,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,2808.05,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,2793.09,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,2770.78,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,3041.93,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,2883.29,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,2841.09,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,2880.95,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,2698.27,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,2249.39,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,2235.76,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,2375.24,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,2698.5,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,2910.09,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,3236.09,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,3600.37,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,3750.18,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,3890.25,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,4215.09,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,4326.13,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,4172.42,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,4067.05,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,3766.26,
-B12,Hydro Water Reservoir,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,3565.4,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,53144.57,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,53100.36,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,53130.95,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,52939.99,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,53033.86,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,52592.73,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,51933.63,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,51222.25,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,50640.84,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,49333.41,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,48668.57,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,48327.79,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,48366.16,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,48222.87,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,48154.86,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,48161.21,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,48805.47,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,48897.11,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,49200.46,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,49922.9,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,50710.75,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,51059.25,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,51581.44,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,51876.98,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,52032.38,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,52132.79,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,52214.16,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,52239.79,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,52249.98,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,52249.73,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,52347.54,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,52399.23,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,52710.98,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,52914.75,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,52941.36,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,52960.1,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,53008.95,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,53017.16,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,53024.54,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,53027.34,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,53154.52,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,53288.88,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,53301.66,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,53295.09,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,53283.16,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,53273.07,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,53266.77,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,53255.0,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,53248.69,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,53245.51,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,53243.91,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,53248.03,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,53246.74,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,53240.0,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,53238.76,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,53246.0,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,53250.16,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,53267.86,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,53257.12,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,53255.79,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,53253.77,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,53262.18,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,53258.79,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,53259.27,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,53266.2,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,53261.79,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,53262.28,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,53268.14,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,53271.93,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,53267.12,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,53274.02,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,53271.72,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,53269.97,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,53278.11,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,53288.5,
-B14,Nuclear,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,53286.23,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,0.0,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,297.44,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,384.3,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,482.85,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,599.79,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,769.45,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,997.95,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,1117.45,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,1244.42,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,1387.27,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,1591.56,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,1833.62,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,1966.12,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,2063.86,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,2193.85,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,2317.29,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,2425.57,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,2538.27,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,2649.68,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,2780.83,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,2800.36,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,2870.05,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,2956.81,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,2944.26,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,2881.13,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,2824.32,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,2708.28,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,2639.21,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,2539.66,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,2392.63,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,2254.9,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,2039.55,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,1839.68,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,1653.39,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,1466.65,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,1289.53,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,1082.78,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,845.54,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,602.99,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,396.21,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,270.76,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,257.84,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,260.78,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,267.26,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,270.24,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,272.26,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,269.81,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,269.62,
-B16,Solar,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,265.99,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,346.9,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,345.59,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,347.33,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,345.99,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,346.49,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,346.75,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,346.4,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,345.72,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,346.65,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,346.04,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,347.93,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,347.28,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,346.18,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,347.21,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,346.49,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,345.79,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,345.56,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,346.39,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,346.38,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,345.81,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,345.76,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,345.8,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,346.89,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,354.98,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,353.44,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,355.99,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,354.68,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,357.09,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,356.18,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,359.43,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,357.85,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,357.72,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,357.93,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,359.0,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,357.8,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,371.1,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,362.89,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,358.55,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,354.37,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,351.41,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,351.5,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,353.88,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,350.25,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,350.86,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,351.22,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,350.81,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,358.95,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,354.41,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,351.28,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,350.3,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,349.33,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,350.22,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,350.84,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,351.23,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,348.61,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,348.78,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,350.39,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,349.57,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,351.76,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,348.76,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,355.76,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,355.83,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,355.34,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,350.28,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,355.89,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,359.07,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,359.51,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,362.1,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,358.54,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,354.75,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,356.38,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,353.94,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,350.85,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,350.48,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,355.51,
-B17,Waste,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,357.33,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,1722.58,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,1758.71,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,1760.6,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,1755.48,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,1749.83,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,1756.29,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,1766.72,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,1768.2,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,1769.71,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,1771.07,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,1769.3,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,1773.02,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,1775.11,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,1772.59,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,1777.6,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,1763.5,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,1700.5,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,1586.56,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,1615.64,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,1694.75,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,1774.39,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,1774.1,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,1775.35,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,1774.39,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,1776.84,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,1778.71,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,1775.81,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,1766.86,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,1772.18,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,1772.48,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,1755.55,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,1760.1,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,1766.84,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,1764.41,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,1755.86,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,1760.88,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,1765.07,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,1760.8,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,1762.27,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,1759.84,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,1758.61,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,1753.02,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,1755.2,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,1735.37,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,1695.5,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,1633.74,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,1581.89,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,1592.33,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,1594.87,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,1606.49,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,1567.44,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,1626.2,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,1642.74,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,1621.68,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,1684.81,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,1707.17,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,1622.14,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,1535.15,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,1523.49,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,1492.88,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,1587.7,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,1693.81,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,1737.17,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,1726.17,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,1717.43,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,1664.3,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,1501.0,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,1338.66,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,1407.62,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,1481.14,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,1488.58,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,1419.73,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,1470.26,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,1439.63,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,1390.21,
-B18,Wind Offshore,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,1241.23,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,10813.25,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,11143.12,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,11410.6,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,11706.85,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,12013.29,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,12225.22,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,12537.42,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,12709.13,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,12890.71,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,13043.68,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,13098.04,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,13195.72,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,13350.77,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,13608.88,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,13894.48,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,14043.96,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,14150.53,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,14201.32,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,14248.91,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,14250.12,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,14244.91,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,14242.85,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,14294.42,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,14214.02,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,14361.06,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,14551.15,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,14472.88,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,14443.71,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,14476.32,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,14408.14,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,14387.09,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,14212.07,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,14026.91,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,13957.02,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,13929.67,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,13855.68,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,13829.52,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,13584.21,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,13590.32,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,13305.71,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,13092.71,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,12866.75,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,12764.94,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,12555.17,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,12449.97,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,12322.52,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,12061.89,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,11848.62,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,11539.81,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,11258.36,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,11043.88,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,10654.53,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,10423.52,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,10127.81,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,9802.55,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,9539.28,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,9275.99,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,9080.8,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,8729.26,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,8498.25,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,8287.69,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,8114.87,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,7763.47,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,7537.24,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,7331.64,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,7127.44,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,6982.02,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,6914.13,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,6640.19,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,6491.4,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,6354.01,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,6127.11,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,5989.86,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,5926.48,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,5887.51,
-B19,Wind Onshore,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,5773.45,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 00:00:00+00:00,1,77.39,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 00:15:00+00:00,2,27.49,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 00:30:00+00:00,3,40.22,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 00:45:00+00:00,4,25.35,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 01:00:00+00:00,5,10.25,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 01:15:00+00:00,6,7.19,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 01:30:00+00:00,7,7.69,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 01:45:00+00:00,8,7.11,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 02:00:00+00:00,9,1.33,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 02:15:00+00:00,10,0.13,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 02:30:00+00:00,11,0.03,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 02:45:00+00:00,12,0.88,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 03:00:00+00:00,13,7.59,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 03:15:00+00:00,14,4.38,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 03:30:00+00:00,15,5.27,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 03:45:00+00:00,16,1.2,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 04:00:00+00:00,17,24.44,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 04:15:00+00:00,18,16.58,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 04:30:00+00:00,19,25.61,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 04:45:00+00:00,20,19.71,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 05:00:00+00:00,21,70.22,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 05:15:00+00:00,22,54.25,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 05:30:00+00:00,23,23.66,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 05:45:00+00:00,24,116.64,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 06:00:00+00:00,25,68.28,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 06:15:00+00:00,26,119.89,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 06:30:00+00:00,27,27.25,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 06:45:00+00:00,28,67.5,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 07:00:00+00:00,29,27.56,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 07:15:00+00:00,30,0.95,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 07:30:00+00:00,31,5.7,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 07:45:00+00:00,32,3.67,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 08:00:00+00:00,33,9.31,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 08:15:00+00:00,34,3.66,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 08:30:00+00:00,35,7.51,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 08:45:00+00:00,36,3.03,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 09:00:00+00:00,37,9.56,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 09:15:00+00:00,38,7.47,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 09:30:00+00:00,39,5.04,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 09:45:00+00:00,40,6.06,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 10:00:00+00:00,41,23.29,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 10:15:00+00:00,42,21.92,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 10:30:00+00:00,43,28.11,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 10:45:00+00:00,44,76.09,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 11:00:00+00:00,45,0.43,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 11:15:00+00:00,46,3.48,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 11:30:00+00:00,47,17.81,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 11:45:00+00:00,48,3.38,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 12:00:00+00:00,49,6.19,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 12:15:00+00:00,50,2.34,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 12:30:00+00:00,51,42.04,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 12:45:00+00:00,52,3.95,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 13:00:00+00:00,53,6.51,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 13:15:00+00:00,54,2.58,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 13:30:00+00:00,55,0.28,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 13:45:00+00:00,56,4.86,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 14:00:00+00:00,57,25.04,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 14:15:00+00:00,58,37.23,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 14:30:00+00:00,59,22.2,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 14:45:00+00:00,60,20.73,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 15:00:00+00:00,61,6.62,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 15:15:00+00:00,62,3.35,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 15:30:00+00:00,63,0.39,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 15:45:00+00:00,64,0.75,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 16:00:00+00:00,65,2.17,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 16:15:00+00:00,66,1.38,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 16:30:00+00:00,67,2.96,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 16:45:00+00:00,68,3.28,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 17:00:00+00:00,69,37.02,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 17:15:00+00:00,70,54.87,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 17:30:00+00:00,71,20.46,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 17:45:00+00:00,72,14.29,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 18:00:00+00:00,73,18.71,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 18:15:00+00:00,74,18.18,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 18:30:00+00:00,75,21.67,
-B25,Unknown,10YFR-RTE------C,France,2026-01-27 18:45:00+00:00,76,24.52,
-B10,Hydro Pumped Storage,,,2026-01-27 00:00:00+00:00,1,2204.75,
-B10,Hydro Pumped Storage,,,2026-01-27 00:15:00+00:00,2,2509.66,
-B10,Hydro Pumped Storage,,,2026-01-27 00:30:00+00:00,3,2795.02,
-B10,Hydro Pumped Storage,,,2026-01-27 00:45:00+00:00,4,2834.98,
-B10,Hydro Pumped Storage,,,2026-01-27 01:00:00+00:00,5,2831.71,
-B10,Hydro Pumped Storage,,,2026-01-27 01:15:00+00:00,6,2938.15,
-B10,Hydro Pumped Storage,,,2026-01-27 01:30:00+00:00,7,3076.46,
-B10,Hydro Pumped Storage,,,2026-01-27 01:45:00+00:00,8,3146.05,
-B10,Hydro Pumped Storage,,,2026-01-27 02:00:00+00:00,9,3096.64,
-B10,Hydro Pumped Storage,,,2026-01-27 02:15:00+00:00,10,3095.94,
-B10,Hydro Pumped Storage,,,2026-01-27 02:30:00+00:00,11,3097.59,
-B10,Hydro Pumped Storage,,,2026-01-27 02:45:00+00:00,12,3096.37,
-B10,Hydro Pumped Storage,,,2026-01-27 03:00:00+00:00,13,3218.02,
-B10,Hydro Pumped Storage,,,2026-01-27 03:15:00+00:00,14,3251.65,
-B10,Hydro Pumped Storage,,,2026-01-27 03:30:00+00:00,15,3249.68,
-B10,Hydro Pumped Storage,,,2026-01-27 03:45:00+00:00,16,3249.88,
-B10,Hydro Pumped Storage,,,2026-01-27 04:00:00+00:00,17,3247.19,
-B10,Hydro Pumped Storage,,,2026-01-27 04:15:00+00:00,18,3247.8,
-B10,Hydro Pumped Storage,,,2026-01-27 04:30:00+00:00,19,3244.37,
-B10,Hydro Pumped Storage,,,2026-01-27 04:45:00+00:00,20,3234.96,
-B10,Hydro Pumped Storage,,,2026-01-27 05:00:00+00:00,21,2770.24,
-B10,Hydro Pumped Storage,,,2026-01-27 05:15:00+00:00,22,2754.31,
-B10,Hydro Pumped Storage,,,2026-01-27 05:30:00+00:00,23,2302.43,
-B10,Hydro Pumped Storage,,,2026-01-27 05:45:00+00:00,24,1423.87,
-B10,Hydro Pumped Storage,,,2026-01-27 06:00:00+00:00,25,1315.88,
-B10,Hydro Pumped Storage,,,2026-01-27 06:15:00+00:00,26,965.99,
-B10,Hydro Pumped Storage,,,2026-01-27 06:30:00+00:00,27,59.01,
-B10,Hydro Pumped Storage,,,2026-01-27 06:45:00+00:00,28,9.26,
-B10,Hydro Pumped Storage,,,2026-01-27 07:00:00+00:00,29,9.1,
-B10,Hydro Pumped Storage,,,2026-01-27 07:15:00+00:00,30,9.29,
-B10,Hydro Pumped Storage,,,2026-01-27 07:30:00+00:00,31,9.18,
-B10,Hydro Pumped Storage,,,2026-01-27 07:45:00+00:00,32,9.61,
-B10,Hydro Pumped Storage,,,2026-01-27 08:00:00+00:00,33,9.31,
-B10,Hydro Pumped Storage,,,2026-01-27 08:15:00+00:00,34,9.18,
-B10,Hydro Pumped Storage,,,2026-01-27 08:30:00+00:00,35,9.32,
-B10,Hydro Pumped Storage,,,2026-01-27 08:45:00+00:00,36,9.36,
-B10,Hydro Pumped Storage,,,2026-01-27 09:00:00+00:00,37,9.47,
-B10,Hydro Pumped Storage,,,2026-01-27 09:15:00+00:00,38,9.26,
-B10,Hydro Pumped Storage,,,2026-01-27 09:30:00+00:00,39,9.37,
-B10,Hydro Pumped Storage,,,2026-01-27 09:45:00+00:00,40,9.67,
-B10,Hydro Pumped Storage,,,2026-01-27 10:00:00+00:00,41,9.27,
-B10,Hydro Pumped Storage,,,2026-01-27 10:15:00+00:00,42,9.31,
-B10,Hydro Pumped Storage,,,2026-01-27 10:30:00+00:00,43,9.3,
-B10,Hydro Pumped Storage,,,2026-01-27 10:45:00+00:00,44,11.33,
-B10,Hydro Pumped Storage,,,2026-01-27 11:00:00+00:00,45,24.25,
-B10,Hydro Pumped Storage,,,2026-01-27 11:15:00+00:00,46,26.02,
-B10,Hydro Pumped Storage,,,2026-01-27 11:30:00+00:00,47,27.67,
-B10,Hydro Pumped Storage,,,2026-01-27 11:45:00+00:00,48,34.49,
-B10,Hydro Pumped Storage,,,2026-01-27 12:00:00+00:00,49,42.64,
-B10,Hydro Pumped Storage,,,2026-01-27 12:15:00+00:00,50,46.61,
-B10,Hydro Pumped Storage,,,2026-01-27 12:30:00+00:00,51,53.13,
-B10,Hydro Pumped Storage,,,2026-01-27 12:45:00+00:00,52,53.22,
-B10,Hydro Pumped Storage,,,2026-01-27 13:00:00+00:00,53,55.68,
-B10,Hydro Pumped Storage,,,2026-01-27 13:15:00+00:00,54,57.14,
-B10,Hydro Pumped Storage,,,2026-01-27 13:30:00+00:00,55,58.84,
-B10,Hydro Pumped Storage,,,2026-01-27 13:45:00+00:00,56,63.03,
-B10,Hydro Pumped Storage,,,2026-01-27 14:00:00+00:00,57,61.1,
-B10,Hydro Pumped Storage,,,2026-01-27 14:15:00+00:00,58,63.93,
-B10,Hydro Pumped Storage,,,2026-01-27 14:30:00+00:00,59,13.71,
-B10,Hydro Pumped Storage,,,2026-01-27 14:45:00+00:00,60,9.36,
-B10,Hydro Pumped Storage,,,2026-01-27 15:00:00+00:00,61,9.46,
-B10,Hydro Pumped Storage,,,2026-01-27 15:15:00+00:00,62,9.38,
-B10,Hydro Pumped Storage,,,2026-01-27 15:30:00+00:00,63,9.43,
-B10,Hydro Pumped Storage,,,2026-01-27 15:45:00+00:00,64,9.35,
-B10,Hydro Pumped Storage,,,2026-01-27 16:00:00+00:00,65,9.37,
-B10,Hydro Pumped Storage,,,2026-01-27 16:15:00+00:00,66,9.38,
-B10,Hydro Pumped Storage,,,2026-01-27 16:30:00+00:00,67,11.68,
-B10,Hydro Pumped Storage,,,2026-01-27 16:45:00+00:00,68,18.85,
-B10,Hydro Pumped Storage,,,2026-01-27 17:00:00+00:00,69,18.72,
-B10,Hydro Pumped Storage,,,2026-01-27 17:15:00+00:00,70,18.55,
-B10,Hydro Pumped Storage,,,2026-01-27 17:30:00+00:00,71,18.54,
-B10,Hydro Pumped Storage,,,2026-01-27 17:45:00+00:00,72,18.68,
-B10,Hydro Pumped Storage,,,2026-01-27 18:00:00+00:00,73,18.76,
-B10,Hydro Pumped Storage,,,2026-01-27 18:15:00+00:00,74,18.54,
-B10,Hydro Pumped Storage,,,2026-01-27 18:30:00+00:00,75,18.71,
-B10,Hydro Pumped Storage,,,2026-01-27 18:45:00+00:00,76,18.68,
-B25,Unknown,,,2026-01-27 00:00:00+00:00,1,35.16,
-B25,Unknown,,,2026-01-27 00:15:00+00:00,2,3.79,
-B25,Unknown,,,2026-01-27 00:30:00+00:00,3,3.56,
-B25,Unknown,,,2026-01-27 00:45:00+00:00,4,6.4,
-B25,Unknown,,,2026-01-27 01:00:00+00:00,5,9.95,
-B25,Unknown,,,2026-01-27 01:15:00+00:00,6,9.17,
-B25,Unknown,,,2026-01-27 01:30:00+00:00,7,8.5,
-B25,Unknown,,,2026-01-27 01:45:00+00:00,8,9.61,
-B25,Unknown,,,2026-01-27 02:00:00+00:00,9,17.43,
-B25,Unknown,,,2026-01-27 02:15:00+00:00,10,20.58,
-B25,Unknown,,,2026-01-27 02:30:00+00:00,11,21.16,
-B25,Unknown,,,2026-01-27 02:45:00+00:00,12,19.92,
-B25,Unknown,,,2026-01-27 03:00:00+00:00,13,13.21,
-B25,Unknown,,,2026-01-27 03:15:00+00:00,14,14.81,
-B25,Unknown,,,2026-01-27 03:30:00+00:00,15,17.9,
-B25,Unknown,,,2026-01-27 03:45:00+00:00,16,20.65,
-B25,Unknown,,,2026-01-27 04:00:00+00:00,17,9.77,
-B25,Unknown,,,2026-01-27 04:15:00+00:00,18,11.56,
-B25,Unknown,,,2026-01-27 04:30:00+00:00,19,3.05,
-B25,Unknown,,,2026-01-27 04:45:00+00:00,20,7.83,
-B25,Unknown,,,2026-01-27 05:00:00+00:00,21,35.36,
-B25,Unknown,,,2026-01-27 05:15:00+00:00,22,9.33,
-B25,Unknown,,,2026-01-27 05:30:00+00:00,23,9.1,
-B25,Unknown,,,2026-01-27 05:45:00+00:00,24,87.72,
-B25,Unknown,,,2026-01-27 06:00:00+00:00,25,39.52,
-B25,Unknown,,,2026-01-27 06:15:00+00:00,26,89.23,
-B25,Unknown,,,2026-01-27 06:30:00+00:00,27,1.52,
-B25,Unknown,,,2026-01-27 06:45:00+00:00,28,40.29,
-B25,Unknown,,,2026-01-27 07:00:00+00:00,29,3.86,
-B25,Unknown,,,2026-01-27 07:15:00+00:00,30,22.56,
-B25,Unknown,,,2026-01-27 07:30:00+00:00,31,17.26,
-B25,Unknown,,,2026-01-27 07:45:00+00:00,32,24.19,
-B25,Unknown,,,2026-01-27 08:00:00+00:00,33,40.02,
-B25,Unknown,,,2026-01-27 08:15:00+00:00,34,27.42,
-B25,Unknown,,,2026-01-27 08:30:00+00:00,35,28.77,
-B25,Unknown,,,2026-01-27 08:45:00+00:00,36,26.89,
-B25,Unknown,,,2026-01-27 09:00:00+00:00,37,11.09,
-B25,Unknown,,,2026-01-27 09:15:00+00:00,38,7.51,
-B25,Unknown,,,2026-01-27 09:30:00+00:00,39,15.09,
-B25,Unknown,,,2026-01-27 09:45:00+00:00,40,8.27,
-B25,Unknown,,,2026-01-27 10:00:00+00:00,41,9.82,
-B25,Unknown,,,2026-01-27 10:15:00+00:00,42,12.93,
-B25,Unknown,,,2026-01-27 10:30:00+00:00,43,2.82,
-B25,Unknown,,,2026-01-27 10:45:00+00:00,44,36.87,
-B25,Unknown,,,2026-01-27 11:00:00+00:00,45,32.54,
-B25,Unknown,,,2026-01-27 11:15:00+00:00,46,15.16,
-B25,Unknown,,,2026-01-27 11:30:00+00:00,47,5.97,
-B25,Unknown,,,2026-01-27 11:45:00+00:00,48,13.45,
-B25,Unknown,,,2026-01-27 12:00:00+00:00,49,45.29,
-B25,Unknown,,,2026-01-27 12:15:00+00:00,50,49.42,
-B25,Unknown,,,2026-01-27 12:30:00+00:00,51,18.42,
-B25,Unknown,,,2026-01-27 12:45:00+00:00,52,57.38,
-B25,Unknown,,,2026-01-27 13:00:00+00:00,53,23.33,
-B25,Unknown,,,2026-01-27 13:15:00+00:00,54,29.72,
-B25,Unknown,,,2026-01-27 13:30:00+00:00,55,43.21,
-B25,Unknown,,,2026-01-27 13:45:00+00:00,56,24.9,
-B25,Unknown,,,2026-01-27 14:00:00+00:00,57,8.24,
-B25,Unknown,,,2026-01-27 14:15:00+00:00,58,4.64,
-B25,Unknown,,,2026-01-27 14:30:00+00:00,59,12.58,
-B25,Unknown,,,2026-01-27 14:45:00+00:00,60,10.55,
-B25,Unknown,,,2026-01-27 15:00:00+00:00,61,65.64,
-B25,Unknown,,,2026-01-27 15:15:00+00:00,62,45.67,
-B25,Unknown,,,2026-01-27 15:30:00+00:00,63,41.81,
-B25,Unknown,,,2026-01-27 15:45:00+00:00,64,16.98,
-B25,Unknown,,,2026-01-27 16:00:00+00:00,65,14.91,
-B25,Unknown,,,2026-01-27 16:15:00+00:00,66,14.88,
-B25,Unknown,,,2026-01-27 16:30:00+00:00,67,15.09,
-B25,Unknown,,,2026-01-27 16:45:00+00:00,68,15.13,
-B25,Unknown,,,2026-01-27 17:00:00+00:00,69,0.87,
-B25,Unknown,,,2026-01-27 17:15:00+00:00,70,1.54,
-B25,Unknown,,,2026-01-27 17:30:00+00:00,71,1.94,
-B25,Unknown,,,2026-01-27 17:45:00+00:00,72,3.17,
-B25,Unknown,,,2026-01-27 18:00:00+00:00,73,7.29,
-B25,Unknown,,,2026-01-27 18:15:00+00:00,74,6.54,
-B25,Unknown,,,2026-01-27 18:30:00+00:00,75,6.17,
-B25,Unknown,,,2026-01-27 18:45:00+00:00,76,6.64,
+psr_type,generation_type,bidding_zone,start_time,position,quantity_mw,country
+B01,Biomass,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,424.29,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,424.32,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,423.67,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,425.37,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,424.64,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,423.94,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,424.57,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,424.41,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,423.66,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,423.47,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,422.69,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,421.7,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,421.13,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,421.4,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,420.32,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,419.74,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,420.55,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,419.34,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,417.57,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,417.41,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,419.22,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,418.96,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,417.65,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,419.57,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,421.83,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,421.23,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,419.73,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,421.0,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,422.36,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,422.2,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,420.93,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,420.97,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,420.49,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,419.68,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,418.52,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,419.29,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,415.63,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,413.4,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,413.98,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,420.65,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,414.14,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,408.08,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,408.96,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,409.1,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,410.06,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,410.19,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,411.16,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,391.63,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,390.36,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,386.53,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,382.68,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,381.47,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,386.67,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,391.33,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,391.78,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,393.26,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,389.65,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,389.36,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,396.2,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,402.26,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,411.33,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,413.98,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,419.29,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,422.65,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,422.53,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,421.41,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,421.31,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,420.96,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,421.45,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,417.36,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,415.61,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,413.34,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,414.78,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,413.46,France
+B01,Biomass,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,416.15,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,2169.5,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,2105.05,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,2104.82,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,2046.76,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,2007.18,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,2000.13,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,2007.83,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,2025.36,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,2010.57,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,2001.21,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,1986.71,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,1993.75,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,1973.36,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,1970.76,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,1986.91,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,1986.31,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,1992.21,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,2025.6,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,2025.46,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,1998.77,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,2204.26,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,2248.37,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,2149.52,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,2289.61,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,2313.77,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,2441.96,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,2522.62,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,2556.73,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,2709.55,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,2817.23,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,2855.93,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,2830.93,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,2857.84,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,2881.11,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,2861.67,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,2811.1,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,2814.74,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,2788.89,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,2759.85,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,2819.57,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,3023.52,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,3341.58,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,3395.86,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,3616.65,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,3746.66,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,3728.36,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,3849.61,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,3915.03,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,3845.36,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,3905.53,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,3953.24,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,3923.85,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,3822.86,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,3736.31,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,3735.69,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,3751.44,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,3788.7,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,3926.34,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,3939.03,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,4175.46,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,4462.13,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,4710.1,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,4846.49,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,4957.38,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,5348.03,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,5709.07,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,6078.4,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,6187.52,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,6215.79,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,6224.07,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,6218.16,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,6191.11,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,6203.54,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,6239.39,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,6230.55,France
+B04,Fossil Gas,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,6074.22,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,253.07,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,256.72,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,257.31,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,257.27,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,257.03,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,257.16,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,257.12,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,256.98,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,256.76,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,257.05,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,256.98,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,256.76,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,257.17,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,256.89,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,256.78,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,256.76,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,256.87,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,256.8,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,256.92,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,256.52,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,256.66,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,256.98,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,257.45,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,257.71,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,257.72,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,260.03,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,305.48,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,378.0,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,414.6,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,414.68,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,414.53,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,415.0,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,414.64,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,414.87,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,414.78,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,414.68,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,414.81,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,414.39,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,414.5,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,414.88,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,414.95,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,414.96,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,414.58,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,414.53,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,414.63,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,414.67,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,414.98,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,414.37,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,414.53,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,414.73,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,473.56,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,541.95,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,544.31,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,543.83,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,543.88,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,543.96,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,544.37,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,543.65,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,543.73,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,543.8,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,543.77,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,542.26,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,475.38,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,444.99,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,426.52,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,485.2,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,540.07,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,543.83,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,544.07,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,543.88,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,543.96,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,544.1,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,543.8,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,543.73,France
+B05,Fossil Hard coal,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,543.79,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,68.24,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,67.0,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,66.99,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,67.02,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,67.08,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,67.29,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,67.26,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,67.33,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,67.52,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,67.81,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,68.11,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,68.16,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,68.13,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,67.8,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,68.0,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,67.97,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,67.37,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,67.0,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,69.56,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,70.29,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,70.54,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,70.44,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,70.69,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,70.56,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,76.13,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,175.36,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,197.09,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,197.68,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,195.96,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,195.27,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,195.58,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,196.28,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,196.21,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,196.36,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,197.08,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,195.64,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,195.81,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,195.66,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,193.84,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,217.4,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,239.49,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,238.92,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,238.74,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,239.0,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,238.56,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,238.83,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,237.51,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,237.8,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,238.86,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,239.34,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,239.26,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,238.48,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,238.44,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,238.43,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,237.69,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,238.31,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,238.46,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,237.94,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,154.92,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,71.33,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,70.58,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,70.78,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,70.62,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,70.03,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,69.88,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,70.63,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,70.22,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,70.76,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,70.24,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,70.41,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,70.4,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,70.31,France
+B06,Fossil Oil,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,69.93,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,289.94,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,336.11,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,247.93,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,110.02,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,102.79,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,103.02,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,102.82,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,102.76,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,146.9,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,187.38,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,199.73,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,196.9,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,108.4,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,102.87,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,102.75,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,102.88,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,103.1,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,102.76,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,102.97,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,102.92,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,227.57,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,251.25,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,235.8,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,164.54,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,318.52,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,428.96,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,689.16,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,715.02,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,1106.11,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,1077.06,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,1075.46,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,1048.11,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,1214.83,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,1256.34,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,1259.43,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,1080.93,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,1097.87,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,1230.08,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,1224.41,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,1240.76,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,1548.41,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,1339.51,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,1306.24,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,1302.34,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,1434.12,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,1284.62,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,1482.5,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,1363.81,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,852.18,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,603.11,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,434.33,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,443.73,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,424.24,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,431.83,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,517.58,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,520.76,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,653.11,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,690.86,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,628.31,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,645.06,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,554.54,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,454.34,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,412.34,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,394.91,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,798.45,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,1235.25,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,1459.54,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,1856.55,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,2036.03,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,2405.81,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,3229.0,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,3625.06,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,3835.65,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,3713.27,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,3681.05,France
+B10,Hydro Pumped Storage,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,3329.37,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,4507.07,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,4461.43,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,4457.07,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,4392.49,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,4332.48,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,4316.84,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,4296.19,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,4287.73,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,4282.16,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,4278.65,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,4204.31,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,4208.44,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,4204.93,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,4278.93,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,4291.01,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,4295.92,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,4334.2,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,4342.49,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,4420.36,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,4443.96,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,4545.29,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,4508.81,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,4518.61,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,4589.7,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,4708.56,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,4788.68,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,4865.95,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,5060.66,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,5308.33,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,5330.44,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,5328.65,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,5403.8,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,5432.67,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,5467.54,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,5465.03,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,5476.68,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,5516.38,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,5518.26,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,5396.41,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,5320.03,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,5049.82,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,4993.4,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,4979.48,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,5017.87,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,5028.44,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,5059.88,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,5093.18,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,5046.75,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,4878.32,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,4845.53,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,4827.65,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,4802.07,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,4841.15,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,4833.88,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,4798.15,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,4861.63,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,5033.68,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,5050.29,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,5120.09,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,5143.97,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,5127.63,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,5145.25,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,5137.76,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,5249.36,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,5433.12,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,5538.14,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,5620.07,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,5815.17,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,6110.54,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,6219.11,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,6360.41,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,6322.38,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,6318.74,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,6343.99,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,6264.13,France
+B11,Hydro Run-of-river and poundage,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,6163.48,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,1286.73,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,1297.98,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,1293.54,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,1173.36,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,978.96,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,757.95,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,779.89,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,771.5,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,780.73,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,775.51,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,722.23,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,704.83,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,732.94,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,732.99,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,722.95,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,724.13,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,782.64,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,771.13,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,768.73,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,826.59,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,1008.91,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,1006.91,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,1119.15,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,1234.96,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,1377.54,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,1529.63,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,1572.7,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,1862.34,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,2032.2,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,2069.21,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,2164.49,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,2173.71,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,2093.76,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,2070.15,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,2065.34,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,2056.94,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,2137.55,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,2373.17,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,2369.46,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,2429.22,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,2407.83,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,2254.75,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,2358.33,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,2648.44,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,2757.52,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,2653.19,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,2895.57,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,2909.84,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,2809.9,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,2776.86,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,2950.11,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,2792.15,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,2823.62,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,2808.05,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,2793.09,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,2770.78,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,3041.93,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,2883.29,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,2841.09,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,2880.95,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,2698.27,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,2249.39,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,2235.76,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,2375.24,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,2698.5,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,2910.09,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,3236.09,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,3600.37,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,3750.18,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,3890.25,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,4215.09,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,4326.13,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,4172.42,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,4067.05,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,3766.26,France
+B12,Hydro Water Reservoir,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,3565.4,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,53144.57,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,53100.36,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,53130.95,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,52939.99,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,53033.86,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,52592.73,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,51933.63,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,51222.25,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,50640.84,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,49333.41,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,48668.57,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,48327.79,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,48366.16,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,48222.87,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,48154.86,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,48161.21,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,48805.47,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,48897.11,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,49200.46,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,49922.9,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,50710.75,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,51059.25,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,51581.44,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,51876.98,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,52032.38,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,52132.79,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,52214.16,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,52239.79,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,52249.98,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,52249.73,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,52347.54,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,52399.23,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,52710.98,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,52914.75,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,52941.36,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,52960.1,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,53008.95,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,53017.16,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,53024.54,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,53027.34,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,53154.52,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,53288.88,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,53301.66,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,53295.09,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,53283.16,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,53273.07,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,53266.77,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,53255.0,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,53248.69,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,53245.51,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,53243.91,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,53248.03,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,53246.74,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,53240.0,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,53238.76,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,53246.0,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,53250.16,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,53267.86,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,53257.12,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,53255.79,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,53253.77,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,53262.18,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,53258.79,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,53259.27,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,53266.2,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,53261.79,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,53262.28,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,53268.14,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,53271.93,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,53267.12,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,53274.02,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,53271.72,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,53269.97,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,53278.11,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,53288.5,France
+B14,Nuclear,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,53286.23,France
+B16,Solar,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,0.0,France
+B16,Solar,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,297.44,France
+B16,Solar,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,384.3,France
+B16,Solar,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,482.85,France
+B16,Solar,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,599.79,France
+B16,Solar,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,769.45,France
+B16,Solar,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,997.95,France
+B16,Solar,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,1117.45,France
+B16,Solar,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,1244.42,France
+B16,Solar,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,1387.27,France
+B16,Solar,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,1591.56,France
+B16,Solar,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,1833.62,France
+B16,Solar,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,1966.12,France
+B16,Solar,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,2063.86,France
+B16,Solar,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,2193.85,France
+B16,Solar,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,2317.29,France
+B16,Solar,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,2425.57,France
+B16,Solar,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,2538.27,France
+B16,Solar,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,2649.68,France
+B16,Solar,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,2780.83,France
+B16,Solar,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,2800.36,France
+B16,Solar,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,2870.05,France
+B16,Solar,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,2956.81,France
+B16,Solar,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,2944.26,France
+B16,Solar,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,2881.13,France
+B16,Solar,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,2824.32,France
+B16,Solar,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,2708.28,France
+B16,Solar,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,2639.21,France
+B16,Solar,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,2539.66,France
+B16,Solar,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,2392.63,France
+B16,Solar,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,2254.9,France
+B16,Solar,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,2039.55,France
+B16,Solar,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,1839.68,France
+B16,Solar,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,1653.39,France
+B16,Solar,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,1466.65,France
+B16,Solar,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,1289.53,France
+B16,Solar,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,1082.78,France
+B16,Solar,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,845.54,France
+B16,Solar,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,602.99,France
+B16,Solar,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,396.21,France
+B16,Solar,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,270.76,France
+B16,Solar,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,257.84,France
+B16,Solar,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,260.78,France
+B16,Solar,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,267.26,France
+B16,Solar,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,270.24,France
+B16,Solar,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,272.26,France
+B16,Solar,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,269.81,France
+B16,Solar,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,269.62,France
+B16,Solar,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,265.99,France
+B17,Waste,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,346.9,France
+B17,Waste,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,345.59,France
+B17,Waste,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,347.33,France
+B17,Waste,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,345.99,France
+B17,Waste,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,346.49,France
+B17,Waste,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,346.75,France
+B17,Waste,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,346.4,France
+B17,Waste,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,345.72,France
+B17,Waste,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,346.65,France
+B17,Waste,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,346.04,France
+B17,Waste,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,347.93,France
+B17,Waste,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,347.28,France
+B17,Waste,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,346.18,France
+B17,Waste,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,347.21,France
+B17,Waste,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,346.49,France
+B17,Waste,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,345.79,France
+B17,Waste,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,345.56,France
+B17,Waste,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,346.39,France
+B17,Waste,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,346.38,France
+B17,Waste,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,345.81,France
+B17,Waste,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,345.76,France
+B17,Waste,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,345.8,France
+B17,Waste,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,346.89,France
+B17,Waste,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,354.98,France
+B17,Waste,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,353.44,France
+B17,Waste,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,355.99,France
+B17,Waste,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,354.68,France
+B17,Waste,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,357.09,France
+B17,Waste,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,356.18,France
+B17,Waste,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,359.43,France
+B17,Waste,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,357.85,France
+B17,Waste,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,357.72,France
+B17,Waste,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,357.93,France
+B17,Waste,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,359.0,France
+B17,Waste,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,357.8,France
+B17,Waste,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,371.1,France
+B17,Waste,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,362.89,France
+B17,Waste,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,358.55,France
+B17,Waste,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,354.37,France
+B17,Waste,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,351.41,France
+B17,Waste,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,351.5,France
+B17,Waste,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,353.88,France
+B17,Waste,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,350.25,France
+B17,Waste,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,350.86,France
+B17,Waste,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,351.22,France
+B17,Waste,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,350.81,France
+B17,Waste,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,358.95,France
+B17,Waste,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,354.41,France
+B17,Waste,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,351.28,France
+B17,Waste,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,350.3,France
+B17,Waste,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,349.33,France
+B17,Waste,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,350.22,France
+B17,Waste,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,350.84,France
+B17,Waste,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,351.23,France
+B17,Waste,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,348.61,France
+B17,Waste,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,348.78,France
+B17,Waste,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,350.39,France
+B17,Waste,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,349.57,France
+B17,Waste,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,351.76,France
+B17,Waste,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,348.76,France
+B17,Waste,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,355.76,France
+B17,Waste,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,355.83,France
+B17,Waste,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,355.34,France
+B17,Waste,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,350.28,France
+B17,Waste,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,355.89,France
+B17,Waste,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,359.07,France
+B17,Waste,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,359.51,France
+B17,Waste,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,362.1,France
+B17,Waste,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,358.54,France
+B17,Waste,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,354.75,France
+B17,Waste,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,356.38,France
+B17,Waste,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,353.94,France
+B17,Waste,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,350.85,France
+B17,Waste,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,350.48,France
+B17,Waste,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,355.51,France
+B17,Waste,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,357.33,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,1722.58,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,1758.71,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,1760.6,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,1755.48,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,1749.83,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,1756.29,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,1766.72,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,1768.2,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,1769.71,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,1771.07,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,1769.3,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,1773.02,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,1775.11,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,1772.59,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,1777.6,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,1763.5,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,1700.5,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,1586.56,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,1615.64,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,1694.75,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,1774.39,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,1774.1,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,1775.35,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,1774.39,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,1776.84,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,1778.71,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,1775.81,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,1766.86,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,1772.18,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,1772.48,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,1755.55,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,1760.1,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,1766.84,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,1764.41,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,1755.86,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,1760.88,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,1765.07,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,1760.8,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,1762.27,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,1759.84,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,1758.61,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,1753.02,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,1755.2,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,1735.37,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,1695.5,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,1633.74,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,1581.89,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,1592.33,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,1594.87,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,1606.49,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,1567.44,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,1626.2,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,1642.74,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,1621.68,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,1684.81,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,1707.17,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,1622.14,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,1535.15,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,1523.49,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,1492.88,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,1587.7,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,1693.81,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,1737.17,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,1726.17,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,1717.43,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,1664.3,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,1501.0,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,1338.66,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,1407.62,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,1481.14,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,1488.58,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,1419.73,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,1470.26,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,1439.63,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,1390.21,France
+B18,Wind Offshore,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,1241.23,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,10813.25,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,11143.12,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,11410.6,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,11706.85,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,12013.29,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,12225.22,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,12537.42,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,12709.13,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,12890.71,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,13043.68,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,13098.04,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,13195.72,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,13350.77,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,13608.88,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,13894.48,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,14043.96,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,14150.53,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,14201.32,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,14248.91,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,14250.12,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,14244.91,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,14242.85,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,14294.42,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,14214.02,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,14361.06,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,14551.15,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,14472.88,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,14443.71,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,14476.32,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,14408.14,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,14387.09,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,14212.07,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,14026.91,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,13957.02,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,13929.67,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,13855.68,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,13829.52,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,13584.21,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,13590.32,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,13305.71,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,13092.71,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,12866.75,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,12764.94,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,12555.17,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,12449.97,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,12322.52,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,12061.89,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,11848.62,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,11539.81,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,11258.36,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,11043.88,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,10654.53,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,10423.52,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,10127.81,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,9802.55,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,9539.28,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,9275.99,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,9080.8,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,8729.26,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,8498.25,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,8287.69,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,8114.87,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,7763.47,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,7537.24,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,7331.64,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,7127.44,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,6982.02,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,6914.13,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,6640.19,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,6491.4,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,6354.01,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,6127.11,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,5989.86,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,5926.48,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,5887.51,France
+B19,Wind Onshore,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,5773.45,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 00:00:00+00:00,1,77.39,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 00:15:00+00:00,2,27.49,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 00:30:00+00:00,3,40.22,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 00:45:00+00:00,4,25.35,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 01:00:00+00:00,5,10.25,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 01:15:00+00:00,6,7.19,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 01:30:00+00:00,7,7.69,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 01:45:00+00:00,8,7.11,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 02:00:00+00:00,9,1.33,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 02:15:00+00:00,10,0.13,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 02:30:00+00:00,11,0.03,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 02:45:00+00:00,12,0.88,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 03:00:00+00:00,13,7.59,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 03:15:00+00:00,14,4.38,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 03:30:00+00:00,15,5.27,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 03:45:00+00:00,16,1.2,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 04:00:00+00:00,17,24.44,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 04:15:00+00:00,18,16.58,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 04:30:00+00:00,19,25.61,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 04:45:00+00:00,20,19.71,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 05:00:00+00:00,21,70.22,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 05:15:00+00:00,22,54.25,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 05:30:00+00:00,23,23.66,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 05:45:00+00:00,24,116.64,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 06:00:00+00:00,25,68.28,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 06:15:00+00:00,26,119.89,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 06:30:00+00:00,27,27.25,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 06:45:00+00:00,28,67.5,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 07:00:00+00:00,29,27.56,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 07:15:00+00:00,30,0.95,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 07:30:00+00:00,31,5.7,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 07:45:00+00:00,32,3.67,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 08:00:00+00:00,33,9.31,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 08:15:00+00:00,34,3.66,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 08:30:00+00:00,35,7.51,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 08:45:00+00:00,36,3.03,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 09:00:00+00:00,37,9.56,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 09:15:00+00:00,38,7.47,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 09:30:00+00:00,39,5.04,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 09:45:00+00:00,40,6.06,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 10:00:00+00:00,41,23.29,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 10:15:00+00:00,42,21.92,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 10:30:00+00:00,43,28.11,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 10:45:00+00:00,44,76.09,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 11:00:00+00:00,45,0.43,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 11:15:00+00:00,46,3.48,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 11:30:00+00:00,47,17.81,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 11:45:00+00:00,48,3.38,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 12:00:00+00:00,49,6.19,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 12:15:00+00:00,50,2.34,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 12:30:00+00:00,51,42.04,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 12:45:00+00:00,52,3.95,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 13:00:00+00:00,53,6.51,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 13:15:00+00:00,54,2.58,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 13:30:00+00:00,55,0.28,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 13:45:00+00:00,56,4.86,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 14:00:00+00:00,57,25.04,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 14:15:00+00:00,58,37.23,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 14:30:00+00:00,59,22.2,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 14:45:00+00:00,60,20.73,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 15:00:00+00:00,61,6.62,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 15:15:00+00:00,62,3.35,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 15:30:00+00:00,63,0.39,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 15:45:00+00:00,64,0.75,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 16:00:00+00:00,65,2.17,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 16:15:00+00:00,66,1.38,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 16:30:00+00:00,67,2.96,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 16:45:00+00:00,68,3.28,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 17:00:00+00:00,69,37.02,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 17:15:00+00:00,70,54.87,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 17:30:00+00:00,71,20.46,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 17:45:00+00:00,72,14.29,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 18:00:00+00:00,73,18.71,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 18:15:00+00:00,74,18.18,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 18:30:00+00:00,75,21.67,France
+B25,Unknown,10YFR-RTE------C,2026-01-27 18:45:00+00:00,76,24.52,France
+B10,Hydro Pumped Storage,,2026-01-27 00:00:00+00:00,1,2204.75,
+B10,Hydro Pumped Storage,,2026-01-27 00:15:00+00:00,2,2509.66,
+B10,Hydro Pumped Storage,,2026-01-27 00:30:00+00:00,3,2795.02,
+B10,Hydro Pumped Storage,,2026-01-27 00:45:00+00:00,4,2834.98,
+B10,Hydro Pumped Storage,,2026-01-27 01:00:00+00:00,5,2831.71,
+B10,Hydro Pumped Storage,,2026-01-27 01:15:00+00:00,6,2938.15,
+B10,Hydro Pumped Storage,,2026-01-27 01:30:00+00:00,7,3076.46,
+B10,Hydro Pumped Storage,,2026-01-27 01:45:00+00:00,8,3146.05,
+B10,Hydro Pumped Storage,,2026-01-27 02:00:00+00:00,9,3096.64,
+B10,Hydro Pumped Storage,,2026-01-27 02:15:00+00:00,10,3095.94,
+B10,Hydro Pumped Storage,,2026-01-27 02:30:00+00:00,11,3097.59,
+B10,Hydro Pumped Storage,,2026-01-27 02:45:00+00:00,12,3096.37,
+B10,Hydro Pumped Storage,,2026-01-27 03:00:00+00:00,13,3218.02,
+B10,Hydro Pumped Storage,,2026-01-27 03:15:00+00:00,14,3251.65,
+B10,Hydro Pumped Storage,,2026-01-27 03:30:00+00:00,15,3249.68,
+B10,Hydro Pumped Storage,,2026-01-27 03:45:00+00:00,16,3249.88,
+B10,Hydro Pumped Storage,,2026-01-27 04:00:00+00:00,17,3247.19,
+B10,Hydro Pumped Storage,,2026-01-27 04:15:00+00:00,18,3247.8,
+B10,Hydro Pumped Storage,,2026-01-27 04:30:00+00:00,19,3244.37,
+B10,Hydro Pumped Storage,,2026-01-27 04:45:00+00:00,20,3234.96,
+B10,Hydro Pumped Storage,,2026-01-27 05:00:00+00:00,21,2770.24,
+B10,Hydro Pumped Storage,,2026-01-27 05:15:00+00:00,22,2754.31,
+B10,Hydro Pumped Storage,,2026-01-27 05:30:00+00:00,23,2302.43,
+B10,Hydro Pumped Storage,,2026-01-27 05:45:00+00:00,24,1423.87,
+B10,Hydro Pumped Storage,,2026-01-27 06:00:00+00:00,25,1315.88,
+B10,Hydro Pumped Storage,,2026-01-27 06:15:00+00:00,26,965.99,
+B10,Hydro Pumped Storage,,2026-01-27 06:30:00+00:00,27,59.01,
+B10,Hydro Pumped Storage,,2026-01-27 06:45:00+00:00,28,9.26,
+B10,Hydro Pumped Storage,,2026-01-27 07:00:00+00:00,29,9.1,
+B10,Hydro Pumped Storage,,2026-01-27 07:15:00+00:00,30,9.29,
+B10,Hydro Pumped Storage,,2026-01-27 07:30:00+00:00,31,9.18,
+B10,Hydro Pumped Storage,,2026-01-27 07:45:00+00:00,32,9.61,
+B10,Hydro Pumped Storage,,2026-01-27 08:00:00+00:00,33,9.31,
+B10,Hydro Pumped Storage,,2026-01-27 08:15:00+00:00,34,9.18,
+B10,Hydro Pumped Storage,,2026-01-27 08:30:00+00:00,35,9.32,
+B10,Hydro Pumped Storage,,2026-01-27 08:45:00+00:00,36,9.36,
+B10,Hydro Pumped Storage,,2026-01-27 09:00:00+00:00,37,9.47,
+B10,Hydro Pumped Storage,,2026-01-27 09:15:00+00:00,38,9.26,
+B10,Hydro Pumped Storage,,2026-01-27 09:30:00+00:00,39,9.37,
+B10,Hydro Pumped Storage,,2026-01-27 09:45:00+00:00,40,9.67,
+B10,Hydro Pumped Storage,,2026-01-27 10:00:00+00:00,41,9.27,
+B10,Hydro Pumped Storage,,2026-01-27 10:15:00+00:00,42,9.31,
+B10,Hydro Pumped Storage,,2026-01-27 10:30:00+00:00,43,9.3,
+B10,Hydro Pumped Storage,,2026-01-27 10:45:00+00:00,44,11.33,
+B10,Hydro Pumped Storage,,2026-01-27 11:00:00+00:00,45,24.25,
+B10,Hydro Pumped Storage,,2026-01-27 11:15:00+00:00,46,26.02,
+B10,Hydro Pumped Storage,,2026-01-27 11:30:00+00:00,47,27.67,
+B10,Hydro Pumped Storage,,2026-01-27 11:45:00+00:00,48,34.49,
+B10,Hydro Pumped Storage,,2026-01-27 12:00:00+00:00,49,42.64,
+B10,Hydro Pumped Storage,,2026-01-27 12:15:00+00:00,50,46.61,
+B10,Hydro Pumped Storage,,2026-01-27 12:30:00+00:00,51,53.13,
+B10,Hydro Pumped Storage,,2026-01-27 12:45:00+00:00,52,53.22,
+B10,Hydro Pumped Storage,,2026-01-27 13:00:00+00:00,53,55.68,
+B10,Hydro Pumped Storage,,2026-01-27 13:15:00+00:00,54,57.14,
+B10,Hydro Pumped Storage,,2026-01-27 13:30:00+00:00,55,58.84,
+B10,Hydro Pumped Storage,,2026-01-27 13:45:00+00:00,56,63.03,
+B10,Hydro Pumped Storage,,2026-01-27 14:00:00+00:00,57,61.1,
+B10,Hydro Pumped Storage,,2026-01-27 14:15:00+00:00,58,63.93,
+B10,Hydro Pumped Storage,,2026-01-27 14:30:00+00:00,59,13.71,
+B10,Hydro Pumped Storage,,2026-01-27 14:45:00+00:00,60,9.36,
+B10,Hydro Pumped Storage,,2026-01-27 15:00:00+00:00,61,9.46,
+B10,Hydro Pumped Storage,,2026-01-27 15:15:00+00:00,62,9.38,
+B10,Hydro Pumped Storage,,2026-01-27 15:30:00+00:00,63,9.43,
+B10,Hydro Pumped Storage,,2026-01-27 15:45:00+00:00,64,9.35,
+B10,Hydro Pumped Storage,,2026-01-27 16:00:00+00:00,65,9.37,
+B10,Hydro Pumped Storage,,2026-01-27 16:15:00+00:00,66,9.38,
+B10,Hydro Pumped Storage,,2026-01-27 16:30:00+00:00,67,11.68,
+B10,Hydro Pumped Storage,,2026-01-27 16:45:00+00:00,68,18.85,
+B10,Hydro Pumped Storage,,2026-01-27 17:00:00+00:00,69,18.72,
+B10,Hydro Pumped Storage,,2026-01-27 17:15:00+00:00,70,18.55,
+B10,Hydro Pumped Storage,,2026-01-27 17:30:00+00:00,71,18.54,
+B10,Hydro Pumped Storage,,2026-01-27 17:45:00+00:00,72,18.68,
+B10,Hydro Pumped Storage,,2026-01-27 18:00:00+00:00,73,18.76,
+B10,Hydro Pumped Storage,,2026-01-27 18:15:00+00:00,74,18.54,
+B10,Hydro Pumped Storage,,2026-01-27 18:30:00+00:00,75,18.71,
+B10,Hydro Pumped Storage,,2026-01-27 18:45:00+00:00,76,18.68,
+B25,Unknown,,2026-01-27 00:00:00+00:00,1,35.16,
+B25,Unknown,,2026-01-27 00:15:00+00:00,2,3.79,
+B25,Unknown,,2026-01-27 00:30:00+00:00,3,3.56,
+B25,Unknown,,2026-01-27 00:45:00+00:00,4,6.4,
+B25,Unknown,,2026-01-27 01:00:00+00:00,5,9.95,
+B25,Unknown,,2026-01-27 01:15:00+00:00,6,9.17,
+B25,Unknown,,2026-01-27 01:30:00+00:00,7,8.5,
+B25,Unknown,,2026-01-27 01:45:00+00:00,8,9.61,
+B25,Unknown,,2026-01-27 02:00:00+00:00,9,17.43,
+B25,Unknown,,2026-01-27 02:15:00+00:00,10,20.58,
+B25,Unknown,,2026-01-27 02:30:00+00:00,11,21.16,
+B25,Unknown,,2026-01-27 02:45:00+00:00,12,19.92,
+B25,Unknown,,2026-01-27 03:00:00+00:00,13,13.21,
+B25,Unknown,,2026-01-27 03:15:00+00:00,14,14.81,
+B25,Unknown,,2026-01-27 03:30:00+00:00,15,17.9,
+B25,Unknown,,2026-01-27 03:45:00+00:00,16,20.65,
+B25,Unknown,,2026-01-27 04:00:00+00:00,17,9.77,
+B25,Unknown,,2026-01-27 04:15:00+00:00,18,11.56,
+B25,Unknown,,2026-01-27 04:30:00+00:00,19,3.05,
+B25,Unknown,,2026-01-27 04:45:00+00:00,20,7.83,
+B25,Unknown,,2026-01-27 05:00:00+00:00,21,35.36,
+B25,Unknown,,2026-01-27 05:15:00+00:00,22,9.33,
+B25,Unknown,,2026-01-27 05:30:00+00:00,23,9.1,
+B25,Unknown,,2026-01-27 05:45:00+00:00,24,87.72,
+B25,Unknown,,2026-01-27 06:00:00+00:00,25,39.52,
+B25,Unknown,,2026-01-27 06:15:00+00:00,26,89.23,
+B25,Unknown,,2026-01-27 06:30:00+00:00,27,1.52,
+B25,Unknown,,2026-01-27 06:45:00+00:00,28,40.29,
+B25,Unknown,,2026-01-27 07:00:00+00:00,29,3.86,
+B25,Unknown,,2026-01-27 07:15:00+00:00,30,22.56,
+B25,Unknown,,2026-01-27 07:30:00+00:00,31,17.26,
+B25,Unknown,,2026-01-27 07:45:00+00:00,32,24.19,
+B25,Unknown,,2026-01-27 08:00:00+00:00,33,40.02,
+B25,Unknown,,2026-01-27 08:15:00+00:00,34,27.42,
+B25,Unknown,,2026-01-27 08:30:00+00:00,35,28.77,
+B25,Unknown,,2026-01-27 08:45:00+00:00,36,26.89,
+B25,Unknown,,2026-01-27 09:00:00+00:00,37,11.09,
+B25,Unknown,,2026-01-27 09:15:00+00:00,38,7.51,
+B25,Unknown,,2026-01-27 09:30:00+00:00,39,15.09,
+B25,Unknown,,2026-01-27 09:45:00+00:00,40,8.27,
+B25,Unknown,,2026-01-27 10:00:00+00:00,41,9.82,
+B25,Unknown,,2026-01-27 10:15:00+00:00,42,12.93,
+B25,Unknown,,2026-01-27 10:30:00+00:00,43,2.82,
+B25,Unknown,,2026-01-27 10:45:00+00:00,44,36.87,
+B25,Unknown,,2026-01-27 11:00:00+00:00,45,32.54,
+B25,Unknown,,2026-01-27 11:15:00+00:00,46,15.16,
+B25,Unknown,,2026-01-27 11:30:00+00:00,47,5.97,
+B25,Unknown,,2026-01-27 11:45:00+00:00,48,13.45,
+B25,Unknown,,2026-01-27 12:00:00+00:00,49,45.29,
+B25,Unknown,,2026-01-27 12:15:00+00:00,50,49.42,
+B25,Unknown,,2026-01-27 12:30:00+00:00,51,18.42,
+B25,Unknown,,2026-01-27 12:45:00+00:00,52,57.38,
+B25,Unknown,,2026-01-27 13:00:00+00:00,53,23.33,
+B25,Unknown,,2026-01-27 13:15:00+00:00,54,29.72,
+B25,Unknown,,2026-01-27 13:30:00+00:00,55,43.21,
+B25,Unknown,,2026-01-27 13:45:00+00:00,56,24.9,
+B25,Unknown,,2026-01-27 14:00:00+00:00,57,8.24,
+B25,Unknown,,2026-01-27 14:15:00+00:00,58,4.64,
+B25,Unknown,,2026-01-27 14:30:00+00:00,59,12.58,
+B25,Unknown,,2026-01-27 14:45:00+00:00,60,10.55,
+B25,Unknown,,2026-01-27 15:00:00+00:00,61,65.64,
+B25,Unknown,,2026-01-27 15:15:00+00:00,62,45.67,
+B25,Unknown,,2026-01-27 15:30:00+00:00,63,41.81,
+B25,Unknown,,2026-01-27 15:45:00+00:00,64,16.98,
+B25,Unknown,,2026-01-27 16:00:00+00:00,65,14.91,
+B25,Unknown,,2026-01-27 16:15:00+00:00,66,14.88,
+B25,Unknown,,2026-01-27 16:30:00+00:00,67,15.09,
+B25,Unknown,,2026-01-27 16:45:00+00:00,68,15.13,
+B25,Unknown,,2026-01-27 17:00:00+00:00,69,0.87,
+B25,Unknown,,2026-01-27 17:15:00+00:00,70,1.54,
+B25,Unknown,,2026-01-27 17:30:00+00:00,71,1.94,
+B25,Unknown,,2026-01-27 17:45:00+00:00,72,3.17,
+B25,Unknown,,2026-01-27 18:00:00+00:00,73,7.29,
+B25,Unknown,,2026-01-27 18:15:00+00:00,74,6.54,
+B25,Unknown,,2026-01-27 18:30:00+00:00,75,6.17,
+B25,Unknown,,2026-01-27 18:45:00+00:00,76,6.64,
