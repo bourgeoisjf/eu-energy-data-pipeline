@@ -1,14 +1,25 @@
+
 import os
+import sys
 import requests
+from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
+
+# ======================================================
+# Project root & imports
+# ======================================================
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+sys.path.append(str(PROJECT_ROOT))
 
 from data.reference.countries import COUNTRIES
 
 # ======================================================
-# Load environment variables
+# Environment variables
 # ======================================================
-load_dotenv()
+
+load_dotenv(PROJECT_ROOT / ".env")
 
 API_KEY = os.getenv("ENTSOE_API_KEY")
 
@@ -18,34 +29,26 @@ if not API_KEY:
 # ======================================================
 # Constants
 # ======================================================
-BASE_URL = "https://web-api.tp.entsoe.eu/api"
-OUTPUT_DIR = "data/raw/generation"
 
-DOCUMENT_TYPE = "A75"   # Actual generation per type
+BASE_URL = "https://web-api.tp.entsoe.eu/api"
+
+DOCUMENT_TYPE = "A75"   # Actual generation per unit
 PROCESS_TYPE = "A16"    # Realised
 
-# Example period (UTC)
 PERIOD_START = "202601270000"
 PERIOD_END = "202601280000"
+
+RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw" / "generation"
+RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 # ======================================================
 # Helper functions
 # ======================================================
-def build_request_params(bidding_zone: str) -> dict:
-    """
-    Build request parameters for the ENTSO-E API.
 
-    Parameters
-    ----------
-    bidding_zone : str
-        ENTSO-E bidding zone code (e.g. France, Germany, Spain)
+def fetch_generation_xml(bidding_zone: str) -> str:
+    """Fetch raw generation XML from ENTSO-E for a given bidding zone."""
 
-    Returns
-    -------
-    dict
-        Dictionary with API request parameters
-    """
-    return {
+    params = {
         "securityToken": API_KEY,
         "documentType": DOCUMENT_TYPE,
         "processType": PROCESS_TYPE,
@@ -54,57 +57,40 @@ def build_request_params(bidding_zone: str) -> dict:
         "periodEnd": PERIOD_END,
     }
 
-
-def fetch_generation_data(bidding_zone: str) -> str:
-    """
-    Fetch generation data XML from ENTSO-E API for a given bidding zone.
-    """
-    response = requests.get(
-        BASE_URL,
-        params=build_request_params(bidding_zone),
-    )
+    response = requests.get(BASE_URL, params=params)
 
     if response.status_code != 200:
         raise RuntimeError(
-            f"API request failed ({bidding_zone}): "
+            f"API request failed for {bidding_zone}: "
             f"{response.status_code} - {response.text}"
         )
 
     return response.text
 
-
-def save_raw_response(content: str, country_code: str) -> None:
-    """
-    Save raw XML response to disk with country-specific filename.
-    """
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-    timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-    filename = f"entsoe_generation_{country_code}_raw_{timestamp}.xml"
-    filepath = os.path.join(OUTPUT_DIR, filename)
-
-    with open(filepath, "w", encoding="utf-8") as f:
-        f.write(content)
-
-    print(f"✅ Raw data saved to: {filepath}")
-
 # ======================================================
 # Main
 # ======================================================
+
 def main():
     print("🌍 Starting multi-country ENTSO-E ingestion...")
 
     for country_code, meta in COUNTRIES.items():
-        country_name = meta["country_name"]
         bidding_zone = meta["bidding_zone"]
+        country_name = meta["country_name"]
 
         print(f"📥 Fetching data for {country_name} ({country_code})")
 
-        xml_content = fetch_generation_data(bidding_zone)
-        save_raw_response(xml_content, country_code)
+        xml_content = fetch_generation_xml(bidding_zone)
+
+        output_file = RAW_DATA_DIR / f"generation_{country_code}.xml"
+
+        with open(output_file, "w", encoding="utf-8") as f:
+            f.write(xml_content)
+
+        print(f"✅ Saved raw XML to {output_file}")
 
     print("🎉 Ingestion completed for all countries.")
 
-
 if __name__ == "__main__":
     main()
+>>>>>>> 5afee7e (Remove unused scripts and CSVs for new pipeline version)
