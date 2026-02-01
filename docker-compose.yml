@@ -1,0 +1,28 @@
+version: "3.9"
+
+services:
+  db:
+    image: postgres:15
+    container_name: energy_db
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+  pipeline:
+    build: .
+    container_name: energy_pipeline
+    depends_on:
+      - db
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    command: ["python", "processing/load_generation_to_postgres.py"]
+
+volumes:
+  pgdata:
