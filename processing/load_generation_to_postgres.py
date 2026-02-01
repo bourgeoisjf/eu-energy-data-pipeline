@@ -1,4 +1,3 @@
-
 """
 Load ENTSO-E generation dataset into PostgreSQL.
 This script:
@@ -22,10 +21,11 @@ DB_CONFIG = {
     "port": 5432,
     "dbname": "energy",
     "user": "postgres",
-    "password": "1234"
+    "password": "1234",
 }
 
 TABLE_NAME = "energy_generation"
+
 
 # ------------------------------------------------------------------------
 # Load CSV
@@ -34,6 +34,7 @@ def load_csv(filepath: Path) -> pd.DataFrame:
     if not filepath.exists():
         raise FileNotFoundError(f"CSV file not found: {filepath}")
     return pd.read_csv(filepath, parse_dates=["start_time"])
+
 
 # ------------------------------------------------------------------------
 # Create table if not exists
@@ -58,6 +59,7 @@ def create_table(conn):
         conn.commit()
     print(f"✅ Table '{TABLE_NAME}' ensured.")
 
+
 # ------------------------------------------------------------------------
 # Insert data
 # ------------------------------------------------------------------------
@@ -77,6 +79,7 @@ def insert_data(conn, df: pd.DataFrame):
         conn.commit()
     print(f"✅ Inserted {len(records)} rows (duplicates ignored).")
 
+
 # ------------------------------------------------------------------------
 # Main
 # ------------------------------------------------------------------------
@@ -91,6 +94,6 @@ def main():
 
     print("🎉 Data load completed!")
 
+
 if __name__ == "__main__":
     main()
->>>>>>> 5afee7e (Remove unused scripts and CSVs for new pipeline version)

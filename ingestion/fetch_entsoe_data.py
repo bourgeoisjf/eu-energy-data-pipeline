@@ -1,4 +1,3 @@
-
 import os
 import sys
 import requests
@@ -32,8 +31,8 @@ if not API_KEY:
 
 BASE_URL = "https://web-api.tp.entsoe.eu/api"
 
-DOCUMENT_TYPE = "A75"   # Actual generation per unit
-PROCESS_TYPE = "A16"    # Realised
+DOCUMENT_TYPE = "A75"  # Actual generation per unit
+PROCESS_TYPE = "A16"  # Realised
 
 PERIOD_START = "202601270000"
 PERIOD_END = "202601280000"
@@ -44,6 +43,7 @@ RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
 # ======================================================
 # Helper functions
 # ======================================================
+
 
 def fetch_generation_xml(bidding_zone: str) -> str:
     """Fetch raw generation XML from ENTSO-E for a given bidding zone."""
@@ -67,9 +67,11 @@ def fetch_generation_xml(bidding_zone: str) -> str:
 
     return response.text
 
+
 # ======================================================
 # Main
 # ======================================================
+
 
 def main():
     print("🌍 Starting multi-country ENTSO-E ingestion...")
@@ -91,6 +93,6 @@ def main():
 
     print("🎉 Ingestion completed for all countries.")
 
+
 if __name__ == "__main__":
     main()
->>>>>>> 5afee7e (Remove unused scripts and CSVs for new pipeline version)
