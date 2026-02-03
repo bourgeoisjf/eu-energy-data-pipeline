@@ -1,97 +1,83 @@
+"""
+ENTSO-E API Data Extraction Script.
+Updated to accept dynamic dates from Airflow.
+"""
+
 import os
 import sys
 import requests
 from pathlib import Path
-from datetime import datetime
+from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
-# ======================================================
-# Project root & imports
-# ======================================================
-
+# 1. SETUP PATHS & ENV
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-sys.path.append(str(PROJECT_ROOT))
-
-from data.reference.countries import COUNTRIES
-
-# ======================================================
-# Environment variables
-# ======================================================
-
 load_dotenv(PROJECT_ROOT / ".env")
 
 API_KEY = os.getenv("ENTSOE_API_KEY")
-
-if not API_KEY:
-    raise ValueError("ENTSOE_API_KEY not found. Check your .env file.")
-
-# ======================================================
-# Constants
-# ======================================================
-
 BASE_URL = "https://web-api.tp.entsoe.eu/api"
 
-DOCUMENT_TYPE = "A75"  # Actual generation per unit
-PROCESS_TYPE = "A16"  # Realised
+# 2. DYNAMIC DATE HANDLING
+if len(sys.argv) > 1:
+    # Airflow passes date as YYYY-MM-DD
+    execution_date = datetime.strptime(sys.argv[1], "%Y-%m-%d")
+else:
+    # Fallback to yesterday if run manually without args
+    execution_date = datetime.now() - timedelta(days=1)
 
-PERIOD_START = "202601270000"
-PERIOD_END = "202601280000"
+# ENTSO-E needs a range. We want the full day of the execution_date
+start_str = execution_date.strftime("%Y%m%d0000")
+end_str = execution_date.strftime("%Y%m%d2300")
+folder_path = execution_date.strftime("%Y/%m/%d")
 
-RAW_DATA_DIR = PROJECT_ROOT / "data" / "raw" / "generation"
-RAW_DATA_DIR.mkdir(parents=True, exist_ok=True)
-
-# ======================================================
-# Helper functions
-# ======================================================
-
-
-def fetch_generation_xml(bidding_zone: str) -> str:
-    """Fetch raw generation XML from ENTSO-E for a given bidding zone."""
-
-    params = {
-        "securityToken": API_KEY,
-        "documentType": DOCUMENT_TYPE,
-        "processType": PROCESS_TYPE,
-        "in_Domain": bidding_zone,
-        "periodStart": PERIOD_START,
-        "periodEnd": PERIOD_END,
-    }
-
-    response = requests.get(BASE_URL, params=params)
-
-    if response.status_code != 200:
-        raise RuntimeError(
-            f"API request failed for {bidding_zone}: "
-            f"{response.status_code} - {response.text}"
-        )
-
-    return response.text
+# 3. COUNTRIES TO FETCH
+COUNTRIES = {
+    "10YFR-RTE------C": "FR",
+    "10YES-REE------0": "ES",
+    "10YPT-REN------W": "PT",
+    "10YDE-VE-------2": "DE",
+}
 
 
-# ======================================================
-# Main
-# ======================================================
+def download_data(doc_type, category):
+    print(f"🚀 Starting download for {category} | Period: {start_str} to {end_str}")
+
+    for domain, code in COUNTRIES.items():
+        params = {
+            "securityToken": API_KEY,
+            "documentType": doc_type,
+            "processType": "A16",
+            "in_Domain": domain,
+            "periodStart": start_str,
+            "periodEnd": end_str,
+        }
+
+        response = requests.get(BASE_URL, params=params)
+
+        if response.status_code == 200:
+            # Create folder structure: data/raw/category/YYYY/MM/DD
+            out_dir = PROJECT_ROOT / "data" / "raw" / category / folder_path
+            out_dir.mkdir(parents=True, exist_ok=True)
+
+            file_name = f"{category}_{code}.xml"
+            with open(out_dir / file_name, "wb") as f:
+                f.write(response.content)
+            print(f"  ✅ Saved: {code}")
+        else:
+            print(
+                f"  ❌ Error {response.status_code} for {code}: {response.text[:100]}"
+            )
 
 
 def main():
-    print("🌍 Starting multi-country ENTSO-E ingestion...")
+    if not API_KEY:
+        print("❌ API Key not found! Check your .env file.")
+        return
 
-    for country_code, meta in COUNTRIES.items():
-        bidding_zone = meta["bidding_zone"]
-        country_name = meta["country_name"]
-
-        print(f"📥 Fetching data for {country_name} ({country_code})")
-
-        xml_content = fetch_generation_xml(bidding_zone)
-
-        output_file = RAW_DATA_DIR / f"generation_{country_code}.xml"
-
-        with open(output_file, "w", encoding="utf-8") as f:
-            f.write(xml_content)
-
-        print(f"✅ Saved raw XML to {output_file}")
-
-    print("🎉 Ingestion completed for all countries.")
+    # A75 = Generation, A44 = Prices
+    download_data("A75", "generation")
+    download_data("A44", "prices")
+    print(f"\n✨ Ingestion complete for date: {folder_path}")
 
 
 if __name__ == "__main__":

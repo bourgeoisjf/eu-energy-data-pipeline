@@ -19,8 +19,8 @@ venv/
 # Data files
 # =========================
 data/raw/
-data/interim/
-
+data/processed/
+!data/reference/
 # Permitir apenas amostras pequenas versionadas
 !data/raw/*.sample.csv
 
@@ -35,3 +35,21 @@ Thumbs.db
 # =========================
 .ipynb_checkpoints/
 git_push.sh
+
+# =========================
+# Airflow
+# =========================
+airflow_venv/
+
+airflow_home/*.db
+airflow_home/*.cfg
+airflow_home/*.err
+airflow_home/*.log
+airflow_home/*.pid
+airflow_home/logs/
+airflow_home/airflow.db
+airflow_home/webserver_config.py
+
+# Se você estiver usando o diretório de plugins e logs fora do airflow_home
+logs/
+plugins/

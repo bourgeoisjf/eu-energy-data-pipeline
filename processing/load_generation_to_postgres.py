@@ -1,117 +1,134 @@
 """
-Load ENTSO-E generation dataset into PostgreSQL.
-This script:
-1. Creates the table with proper types if it doesn't exist
-2. Inserts data from the CSV file
-3. Ensures no duplicate rows are inserted
+Unified Load Script for ENTSO-E Data.
+Modified to accept a target date from Airflow via command line.
 """
 
 import os
-from dotenv import load_dotenv
+import sys
+import psycopg2
 import pandas as pd
 from pathlib import Path
-import psycopg2
+from dotenv import load_dotenv
 from psycopg2.extras import execute_batch
 
-# ------------------------------------------------------------------------
+# 1. SETUP PATHS
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+BASE_DATA_PATH = PROJECT_ROOT / "data" / "processed"
+
 # Load environment variables
-# ------------------------------------------------------------------------
-load_dotenv()
+load_dotenv(PROJECT_ROOT / ".env")
 
-# Detect if running inside Docker
+# 2. DB CONNECTION CONFIG
 IN_DOCKER = os.path.exists("/.dockerenv")
-
-# DB_HOST from .env or default
-db_host_env = os.getenv("DB_HOST", "").strip()
-if db_host_env:
-    DB_HOST = db_host_env
-else:
-    DB_HOST = "db" if IN_DOCKER else "localhost"
-
-# ------------------------------------------------------------------------
-# Configuration from environment
-# ------------------------------------------------------------------------
 DB_CONFIG = {
-    "host": os.getenv("DB_HOST") if not IN_DOCKER else os.getenv("DB_HOST", "db"),
-    "port": int(os.getenv("DB_PORT")),
+    "host": os.getenv("DB_HOST", "db" if IN_DOCKER else "localhost"),
+    "port": int(os.getenv("DB_PORT", 5432)),
     "dbname": os.getenv("DB_NAME"),
     "user": os.getenv("DB_USER"),
     "password": os.getenv("DB_PASSWORD"),
 }
 
-CSV_PATH = Path("data/processed/generation_dataset_final.csv")
-TABLE_NAME = "energy_generation"
+# 3. TABLE DESIGNS (SCHEMAS)
+TABLE_SCHEMAS = {
+    "generation": {
+        "table_name": "energy_generation",
+        "create_sql": """
+            CREATE TABLE IF NOT EXISTS energy_generation (
+                id SERIAL PRIMARY KEY,
+                country CHAR(2),
+                country_name VARCHAR(50),
+                type VARCHAR(20),
+                bidding_zone VARCHAR(50),
+                psr_type VARCHAR(10),
+                generation_type VARCHAR(100),
+                start_time TIMESTAMPTZ,
+                resolution VARCHAR(10),
+                position INT,
+                quantity_mw NUMERIC,
+                ingested_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP,
+                UNIQUE(country, psr_type, start_time, position)
+            );
+        """,
+        "insert_sql": """
+            INSERT INTO energy_generation 
+            (country, country_name, type, bidding_zone, psr_type, generation_type, start_time, resolution, position, quantity_mw)
+            VALUES (%(country)s, %(country_name)s, %(type)s, %(bidding_zone)s, %(psr_type)s, %(generation_type)s, %(start_time)s, %(resolution)s, %(position)s, %(quantity_mw)s)
+            ON CONFLICT (country, psr_type, start_time, position) DO NOTHING;
+        """,
+    },
+    "prices": {
+        "table_name": "energy_prices",
+        "create_sql": """
+            CREATE TABLE IF NOT EXISTS energy_prices (
+                id SERIAL PRIMARY KEY,
+                country CHAR(2),
+                country_name VARCHAR(50),
+                type VARCHAR(20),
+                bidding_zone VARCHAR(50),
+                start_time TIMESTAMPTZ,
+                resolution VARCHAR(10),
+                position INT,
+                price_eur NUMERIC,
+                ingested_at TIMESTAMPTZ DEFAULT CURRENT_TIMESTAMP,
+                UNIQUE(country, start_time, position)
+            );
+        """,
+        "insert_sql": """
+            INSERT INTO energy_prices 
+            (country, country_name, type, bidding_zone, start_time, resolution, position, price_eur)
+            VALUES (%(country)s, %(country_name)s, %(type)s, %(bidding_zone)s, %(start_time)s, %(resolution)s, %(position)s, %(price_eur)s)
+            ON CONFLICT (country, start_time, position) DO NOTHING;
+        """,
+    },
+}
 
 
-# ------------------------------------------------------------------------
-# Load CSV
-# ------------------------------------------------------------------------
-def load_csv(filepath: Path) -> pd.DataFrame:
-    """Load the generation dataset from CSV."""
-    if not filepath.exists():
-        raise FileNotFoundError(f"CSV file not found: {filepath}")
-    return pd.read_csv(filepath, parse_dates=["start_time"])
+# 4. DATA LOADING ENGINE
+def load_csv_to_postgres(conn, file_path, category):
+    """Loads a single CSV file into the database."""
+    print(f"📖 Reading: {file_path.absolute()}")
 
+    df = pd.read_csv(file_path, parse_dates=["start_time"])
+    schema = TABLE_SCHEMAS[category]
 
-# ------------------------------------------------------------------------
-# Create table if not exists
-# ------------------------------------------------------------------------
-def create_table(conn):
-    """Ensure the target table exists with proper schema."""
-    create_sql = f"""
-    CREATE TABLE IF NOT EXISTS {TABLE_NAME} (
-        id SERIAL PRIMARY KEY,
-        country CHAR(2) NOT NULL,
-        country_name VARCHAR(50),
-        bidding_zone VARCHAR(20),
-        psr_type VARCHAR(10),
-        generation_type VARCHAR(50),
-        start_time TIMESTAMPTZ,
-        position INT,
-        quantity_mw NUMERIC,
-        UNIQUE(country, bidding_zone, psr_type, start_time, position)
-    );
-    """
     with conn.cursor() as cur:
-        cur.execute(create_sql)
+        cur.execute(schema["create_sql"])
+        records = df.to_dict(orient="records")
+        execute_batch(cur, schema["insert_sql"], records, page_size=1000)
         conn.commit()
-    print(f"✅ Table '{TABLE_NAME}' ensured.")
+
+    print(f"✅ Loaded {len(df)} rows into '{schema['table_name']}'.")
 
 
-# ------------------------------------------------------------------------
-# Insert data
-# ------------------------------------------------------------------------
-def insert_data(conn, df: pd.DataFrame):
-    """Insert rows into PostgreSQL, ignoring duplicates."""
-    records = df.to_dict(orient="records")
-
-    insert_sql = f"""
-    INSERT INTO {TABLE_NAME} 
-        (country, country_name, bidding_zone, psr_type, generation_type, start_time, position, quantity_mw)
-    VALUES 
-        (%(country)s, %(country_name)s, %(bidding_zone)s, %(psr_type)s, %(generation_type)s, %(start_time)s, %(position)s, %(quantity_mw)s)
-    ON CONFLICT (country, bidding_zone, psr_type, start_time, position) DO NOTHING;
-    """
-
-    with conn.cursor() as cur:
-        execute_batch(cur, insert_sql, records, page_size=1000)
-        conn.commit()
-    print(f"✅ Inserted {len(records)} rows (duplicates ignored).")
-
-
-# ------------------------------------------------------------------------
-# Main
-# ------------------------------------------------------------------------
+# 5. MAIN LOGIC
 def main():
-    print(f"📄 Loading CSV from {CSV_PATH}")
-    df = load_csv(CSV_PATH)
+    # Dynamic Date Handling (same logic as parse and enrich scripts)
+    if len(sys.argv) > 1:
+        target_date_raw = sys.argv[1]
+        target_date = target_date_raw.replace("-", "/")
+    else:
+        # Default to a specific date for manual testing
+        target_date = "2026/02/01"
 
-    print(f"🗄️ Connecting to PostgreSQL at {DB_CONFIG['host']}:{DB_CONFIG['port']}...")
-    with psycopg2.connect(**DB_CONFIG) as conn:
-        create_table(conn)
-        insert_data(conn, df)
+    print(f"🚀 Starting ENTSO-E Data Loader for date: {target_date}")
 
-    print("🎉 Data load completed!")
+    try:
+        with psycopg2.connect(**DB_CONFIG) as conn:
+            for category in ["generation", "prices"]:
+                # Targeted file path based on date
+                csv_file = (
+                    BASE_DATA_PATH / category / target_date / f"enriched_{category}.csv"
+                )
+
+                if csv_file.exists():
+                    load_csv_to_postgres(conn, csv_file, category)
+                else:
+                    print(f"ℹ️ File not found for {category}: {csv_file.absolute()}")
+
+        print("\n✨ Database update process finished.")
+
+    except Exception as e:
+        print(f"❌ Database Error: {e}")
 
 
 if __name__ == "__main__":
