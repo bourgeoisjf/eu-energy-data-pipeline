@@ -40,7 +40,7 @@ git_push.sh
 # Airflow
 # =========================
 airflow_venv/
-
+airflow_home/
 airflow_home/*.db
 airflow_home/*.cfg
 airflow_home/*.err
