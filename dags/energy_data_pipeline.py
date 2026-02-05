@@ -14,8 +14,10 @@ PROJECT_DIR = "/Volumes/Seagate5T/CienciaDeDadosBACKUP/__MyProjectsDataAnalyse/e
 # Default arguments for all tasks
 default_args = {
     "owner": "data_energy",
-    "depends_on_past": False,
-    "retries": 3,
+    "depends_on_past": True,  # Ensures day 2 only runs if day 1 succeeded
+    "email_on_failure": False,
+    "email_on_retry": False,
+    "retries": 2,
     "retry_delay": timedelta(minutes=5),
 }
 
@@ -25,15 +27,16 @@ default_args = {
 with DAG(
     "entsoe_daily_pipeline",
     default_args=default_args,
-    description="Full ETL pipeline for ENTSO-E energy data: Download -> Parse -> Enrich -> Load",
-    schedule_interval="41 23 * * *",  # Runs daily at 23:41 UTC
-    start_date=datetime(2026, 2, 1),  # Historical start date for backfilling
-    catchup=True,  # Process all missed runs since start_date
-    tags=["production", "energy", "entsoe"],
+    description="ENSTSO-E Energy Data Pipeline with Backfill",
+    schedule_interval="0 3 * * *",  # Runs at 03:00 AM daily
+    start_date=datetime(2026, 2, 1),  # Historical start date
+    catchup=True,  # Enables processing missing dates
+    max_active_runs=1,  # CRITICAL: Prevents hitting API rate limits
+    tags=["energy", "entsoe"],
 ) as dag:
     # 1. EXTRACTION: Download XML files from ENTSO-E API
-    # Passing {{ ds }} as argument to the script
-    download_task = BashOperator(
+    # The dynamic date is passed via {{ ds }}
+    fetch_data = BashOperator(
         task_id="download_xml",
         bash_command=f"{PYTHON_BIN} {PROJECT_DIR}/ingestion/fetch_entsoe_data.py {{{{ ds }}}}",
     )
@@ -60,4 +63,4 @@ with DAG(
     # DATA PIPELINE FLOW
     # ======================================================
     # download -> parse -> enrich -> load
-    download_task >> parse_task >> enrich_task >> load_task
+    fetch_data >> parse_task >> enrich_task >> load_task
