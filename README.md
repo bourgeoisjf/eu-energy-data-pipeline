@@ -1,4 +1,4 @@
-# EU Energy Data Pipeline (ENTSO-E) - v2.0
+# European Energy Market Insights: End-to-End Pipeline of Real-Time Energy Data (ENTSO-E) - v2.0
 
 ![Airflow DAG Success](assets/airflow-dag-success-graph.jpg)
 
@@ -111,4 +111,5 @@ graph LR
 ## 👤 Author
 ### **Jean-François Bourgeois**
 **Data Engineering Portfolio Project**
+
 Designed to demonstrate proficiency in API integration, workflow orchestration, and scalable data modeling.
