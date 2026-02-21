@@ -93,6 +93,8 @@ graph LR
     C --> D[Load to Postgres]
 ```
 
+![Dashboard European Energy Market Insights](assets/ENTSO-E-Dashboard.jpg)
+
 1. **Download**: Fetches data based on the Airflow `execution_date`.
 2. **Parse**: Extracts values from XML namespaces into daily partitioned folders.
 3. **Enrich**: Merges technical PSR codes with human-readable labels.
